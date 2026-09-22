@@ -1,0 +1,251 @@
+order_id,order_timestamp,order_date,user_id,r_id,restaurant_city,cuisine,items_count,sales_qty,subtotal,discount,delivery_fee,gst,sales_amount,currency,payment_method,order_status,customer_rating,delivery_time_min
+1,2025-06-11 15:55:36,2025-06-11,18871,366828,"Ameerpet,Hyderabad","Sweets,Desserts",1,1,223,0,0,11,234,INR,UPI,Delivered,4.0,29.0
+2,2024-11-17 17:26:05,2024-11-17,89236,100236,Panipat,Desserts,4,4,648,216,20,32,484,INR,UPI,Cancelled,,
+3,2025-04-23 09:22:46,2025-04-23,91540,224710,"HSR,Bangalore","Beverages,Chinese",4,4,340,127,15,17,245,INR,UPI,Delivered,3.0,42.0
+4,2026-01-24 18:19:11,2026-01-24,8216,379140,"Kukatpally,Hyderabad",Chinese,1,1,77,13,25,4,93,INR,Card,Delivered,,54.0
+5,2024-10-19 11:34:32,2024-10-19,88525,508894,"Chukkuwala,Dehradun","Ice Cream,Desserts",2,2,122,0,20,6,148,INR,COD,Delivered,,26.0
+6,2026-05-16 10:06:41,2026-05-16,88076,511965,"Zirakpur,Chandigarh","North Indian,Chinese",2,2,463,0,35,23,521,INR,COD,Delivered,4.0,13.0
+7,2026-01-04 12:37:21,2026-01-04,95764,509065,"Mehdipatnam,Hyderabad","Fast Food,American",1,2,438,0,0,22,460,INR,Wallet,Delivered,,42.0
+8,2026-02-21 15:51:20,2026-02-21,7903,50671,"Indirapuram,Delhi","Beverages,Ice Cream",1,1,100,31,15,5,89,INR,UPI,Delivered,4.0,46.0
+9,2026-01-18 18:38:22,2026-01-18,98993,477473,"Greenfields_FBD,Gurgaon","Beverages,Fast Food",3,3,326,0,0,16,342,INR,UPI,Delivered,,15.0
+10,2024-09-01 12:32:12,2024-09-01,87494,393834,Siddipet,"Arabian,Biryani",1,1,88,0,20,4,112,INR,Wallet,Delivered,,24.0
+11,2025-08-17 18:01:48,2025-08-17,76572,332045,Thiruvallur,"Snacks,Fast Food",2,2,303,0,35,15,353,INR,UPI,Delivered,5.0,35.0
+12,2026-01-31 15:44:23,2026-01-31,93696,46712,"North Mohali,Chandigarh","Fast Food,Snacks",5,7,583,0,15,29,627,INR,Wallet,Delivered,4.0,29.0
+13,2026-04-12 16:47:05,2026-04-12,93610,421074,"Ameerpet,Hyderabad","Punjabi,Snacks",4,4,346,0,25,17,388,INR,UPI,Cancelled,,
+14,2024-08-25 19:53:53,2024-08-25,50147,434374,"Panampilly Nagar,Kochi","Arabian,Kerala",1,1,176,19,35,9,201,INR,COD,Delivered,5.0,16.0
+15,2025-11-25 09:47:31,2025-11-25,51452,374222,"Greater Mohali,Chandigarh","Indian,North Indian",3,3,260,30,20,13,263,INR,UPI,Delivered,,36.0
+16,2024-07-08 13:26:29,2024-07-08,42808,442546,"Banjara Hills,Hyderabad","North Indian,Chinese",2,2,180,0,0,9,189,INR,UPI,Delivered,4.0,41.0
+17,2025-03-06 21:26:55,2025-03-06,28498,359468,"South Kolkata,Kolkata",Sweets,1,1,109,0,49,5,163,INR,UPI,Delivered,3.0,24.0
+18,2026-05-19 12:12:20,2026-05-19,48039,22404,"Mylapore,Chennai","Bakery,Fast Food",3,3,725,287,15,36,489,INR,UPI,Delivered,4.0,34.0
+19,2024-05-16 20:03:52,2024-05-16,30735,525799,"Athwa,Surat",South Indian,1,2,490,0,25,24,539,INR,COD,Delivered,,43.0
+20,2026-02-12 22:54:26,2026-02-12,19941,76397,"Bopal,Ahmedabad","Pizzas,Pastas",4,4,808,0,35,40,883,INR,UPI,Refunded,,
+21,2024-06-16 20:15:49,2024-06-16,34090,210509,Sivasagar,"Assamese,Chinese",1,1,85,0,0,4,89,INR,Card,Delivered,5.0,56.0
+22,2025-10-16 13:55:45,2025-10-16,51573,548301,"Lingampally & Nalagandla,Hyderabad","Bakery,Beverages",2,3,278,64,20,14,248,INR,Card,Delivered,,27.0
+23,2025-01-19 14:54:37,2025-01-19,5851,453436,"Arumbakkam,Chennai","Indian,Chinese",1,1,214,38,20,11,207,INR,UPI,Delivered,3.0,24.0
+24,2025-12-28 23:04:33,2025-12-28,61394,61983,"Jayanagar,Bangalore","Chinese,South Indian",2,4,769,0,0,38,807,INR,UPI,Delivered,4.0,25.0
+25,2025-10-27 19:55:10,2025-10-27,5603,106261,Erode,"Desserts,Continental",3,3,236,0,15,12,263,INR,COD,Delivered,4.0,31.0
+26,2024-07-26 12:32:33,2024-07-26,54445,281229,Jabalpur,"Indian,Chinese",1,2,380,87,15,19,327,INR,Card,Delivered,4.0,45.0
+27,2025-06-16 22:29:41,2025-06-16,3625,14439,"Swargate,Pune","North Indian,Chinese",3,4,932,0,20,47,999,INR,Wallet,Delivered,5.0,30.0
+28,2025-08-03 19:05:51,2025-08-03,42666,452254,Dimapur,"American,Snacks",3,4,953,0,20,48,1021,INR,UPI,Delivered,4.0,44.0
+29,2024-01-21 21:19:57,2024-01-21,56663,9830,"Connaught Place,Delhi",North Indian,1,1,307,0,25,15,347,INR,COD,Delivered,5.0,54.0
+30,2025-09-13 18:29:46,2025-09-13,9903,438671,"Vasant Kunj,Delhi","Bakery,Pizzas",2,2,236,59,0,12,189,INR,COD,Delivered,,30.0
+31,2025-12-31 17:43:30,2025-12-31,59583,223395,Rajahmundry,"Biryani,Indian",1,1,104,37,25,5,97,INR,COD,Delivered,3.0,20.0
+32,2024-06-17 19:18:40,2024-06-17,5965,484596,"Bavdhan,Pune","American,Snacks",2,2,583,180,25,29,457,INR,COD,Delivered,5.0,56.0
+33,2024-10-24 12:22:45,2024-10-24,66903,352313,"Guindy,Chennai",South Indian,2,2,264,0,35,13,312,INR,Card,Delivered,5.0,16.0
+34,2024-01-13 07:33:16,2024-01-13,14229,258392,Anantapur,"Pizzas,Beverages",5,5,745,0,0,37,782,INR,Card,Delivered,,36.0
+35,2026-02-18 09:43:49,2026-02-18,22231,477530,"Gandhipuram,Coimbatore",Beverages,2,2,113,0,20,6,139,INR,UPI,Delivered,5.0,23.0
+36,2025-10-10 17:11:40,2025-10-10,39408,254364,Tirupati,"Pizzas,Continental",2,3,429,0,0,21,450,INR,Card,Delivered,5.0,35.0
+37,2024-09-13 18:13:35,2024-09-13,80532,433669,Mahbubnagar,"South Indian,Indian",2,2,167,0,35,8,210,INR,UPI,Delivered,4.0,23.0
+38,2025-06-04 19:25:38,2025-06-04,23027,483755,"Lingampally & Nalagandla,Hyderabad","Ice Cream,Beverages",2,2,302,108,0,15,209,INR,UPI,Delivered,,37.0
+39,2025-03-28 10:42:52,2025-03-28,81180,55633,"Wakad,Pune","Healthy Food,Salads",3,3,360,0,25,18,403,INR,COD,Delivered,5.0,43.0
+40,2025-04-06 13:44:27,2025-04-06,50075,572677,"Kondapur,Hyderabad","Arabian,Chinese",2,2,268,71,15,13,225,INR,Card,Cancelled,,
+41,2024-04-24 22:50:18,2024-04-24,58873,261729,"Himayath Nagar,Hyderabad","Desserts,Beverages",2,2,161,0,35,8,204,INR,UPI,Delivered,,30.0
+42,2024-10-21 00:52:59,2024-10-21,94937,238769,Ambikapur,"Chinese,North Indian",2,4,920,0,49,46,1015,INR,UPI,Delivered,5.0,34.0
+43,2025-06-30 22:27:15,2025-06-30,45331,404680,"Howrah,Kolkata",Indian,2,2,314,47,20,16,303,INR,Card,Delivered,,35.0
+44,2026-03-26 09:27:37,2026-03-26,43635,94193,Jodhpur,North Indian,3,4,505,97,20,25,453,INR,Wallet,Delivered,3.0,19.0
+45,2025-01-13 21:38:44,2025-01-13,16196,43727,"Rohini,Delhi",Snacks,2,2,288,0,20,14,322,INR,Card,Delivered,,17.0
+46,2025-03-22 19:45:39,2025-03-22,46987,204348,"Kilpauk,Chennai","North Indian,Punjabi",2,3,819,0,15,41,875,INR,UPI,Delivered,3.0,41.0
+47,2025-09-14 08:42:46,2025-09-14,30970,146481,"Laxmi Nagar,Delhi","Bakery,Desserts",4,8,1166,174,35,58,1085,INR,UPI,Delivered,2.0,35.0
+48,2024-10-04 12:08:51,2024-10-04,22625,487445,"JP Nagar,Bangalore","Biryani,Chinese",1,2,240,0,0,12,252,INR,COD,Delivered,4.0,52.0
+49,2025-12-17 08:35:00,2025-12-17,17940,244228,Noida-1,"North Indian,Thalis",1,1,50,7,0,2,45,INR,COD,Delivered,,38.0
+50,2026-05-16 09:32:02,2026-05-16,10852,395577,"Banashankari,Bangalore",Indian,2,3,126,0,20,6,152,INR,Wallet,Delivered,5.0,35.0
+51,2026-03-02 13:39:08,2026-03-02,56724,243736,"OMR Navalur,Chennai","Biryani,South Indian",5,5,872,0,25,44,941,INR,COD,Delivered,,35.0
+52,2025-05-13 08:55:06,2025-05-13,43348,381270,"Greater Mohali,Chandigarh","Thalis,Chinese",3,4,591,170,20,30,471,INR,Card,Delivered,,42.0
+53,2024-11-14 20:01:53,2024-11-14,19344,370341,"Greater Mohali,Chandigarh","Indian,Chinese",2,3,258,36,15,13,250,INR,UPI,Delivered,5.0,44.0
+54,2026-05-19 08:15:39,2026-05-19,73347,468270,"Howrah,Kolkata","North Indian,Chinese",3,5,697,222,49,35,559,INR,UPI,Delivered,5.0,18.0
+55,2025-08-28 04:12:19,2025-08-28,69590,495655,Jabalpur,Bakery,1,1,73,17,20,4,80,INR,COD,Delivered,4.0,43.0
+56,2025-04-27 18:50:54,2025-04-27,5837,466318,"Madhapur,Hyderabad","Pizzas,Snacks",1,1,144,0,35,7,186,INR,Wallet,Delivered,,10.0
+57,2026-06-11 13:01:44,2026-06-11,32430,288399,"South Chd,Chandigarh","Beverages,Ice Cream",2,2,613,153,15,31,506,INR,COD,Delivered,,52.0
+58,2024-02-04 17:36:29,2024-02-04,64376,259205,"Kothapet & Dilsukhnagar,Hyderabad","Pizzas,Ice Cream",5,8,1508,399,35,75,1219,INR,Wallet,Delivered,4.0,31.0
+59,2026-03-23 12:47:06,2026-03-23,57726,54977,"Laxmi Nagar,Delhi","North Indian,Chinese",2,2,400,142,49,20,327,INR,Card,Delivered,5.0,10.0
+60,2025-03-21 17:13:55,2025-03-21,30365,446568,"JP Nagar,Bangalore","Ice Cream,Desserts",2,3,788,0,15,39,842,INR,COD,Delivered,3.0,32.0
+61,2025-11-16 12:41:40,2025-11-16,37766,382780,"Electronic City,Bangalore","Andhra,Biryani",2,2,319,0,20,16,355,INR,COD,Delivered,4.0,29.0
+62,2026-01-07 14:55:05,2026-01-07,87407,441738,Noida-1,"Snacks,Beverages",2,3,916,0,20,46,982,INR,COD,Delivered,,22.0
+63,2025-09-23 22:11:09,2025-09-23,577,15713,"Nungambakkam,Chennai","Mexican,North Indian",1,1,171,0,20,9,200,INR,Card,Delivered,3.0,39.0
+64,2025-02-12 12:07:28,2025-02-12,63939,124209,Rewa,"North Indian,Desserts",1,1,114,0,25,6,145,INR,Wallet,Delivered,5.0,30.0
+65,2025-08-27 06:48:50,2025-08-27,87400,58022,"Urapakkam,Chennai","South Indian,North Indian",1,2,488,0,20,24,532,INR,UPI,Delivered,,12.0
+66,2024-08-13 17:39:07,2024-08-13,20842,576899,"Yelahanka,Bangalore",North Indian,2,4,340,121,15,17,251,INR,COD,Delivered,,28.0
+67,2025-07-12 12:50:09,2025-07-12,49033,111411,"Governorpet,Vijayawada","South Indian,Andhra",3,3,214,0,35,11,260,INR,UPI,Delivered,4.0,40.0
+68,2024-03-28 12:17:24,2024-03-28,45788,333843,Central-goa,"Indian,Chinese",2,5,600,0,35,30,665,INR,NetBanking,Cancelled,,
+69,2024-02-03 16:55:45,2024-02-03,10634,484971,"Wakad,Pune","North Indian,Arabian",2,2,269,74,0,13,208,INR,Wallet,Delivered,,41.0
+70,2024-06-28 11:52:32,2024-06-28,27458,377523,Bahadurgarh,"Chinese,Continental",2,2,69,0,49,3,121,INR,UPI,Refunded,,
+71,2024-05-20 21:08:19,2024-05-20,66587,243441,"Chandkheda,Ahmedabad","North Indian,Italian",2,2,660,0,15,33,708,INR,Wallet,Delivered,,36.0
+72,2026-04-15 19:14:45,2026-04-15,1428,548823,"Suncity & Bandlaguda,Hyderabad",North Indian,1,1,119,0,15,6,140,INR,UPI,Delivered,5.0,38.0
+73,2025-01-11 12:58:44,2025-01-11,92659,16374,"Alwal,Hyderabad",Pizzas,3,3,335,71,0,17,281,INR,UPI,Delivered,,36.0
+74,2025-12-01 19:26:52,2025-12-01,32595,429425,Bhilwara,"Snacks,Fast Food",2,2,219,0,20,11,250,INR,UPI,Delivered,,38.0
+75,2025-07-06 10:22:48,2025-07-06,79772,352907,"Banashankari,Bangalore","Fast Food,American",1,2,434,0,0,22,456,INR,COD,Delivered,,34.0
+76,2026-04-05 15:46:34,2026-04-05,52343,72165,"Kothrud,Pune","North Indian,Chinese",1,2,314,0,20,16,350,INR,UPI,Delivered,3.0,27.0
+77,2025-11-20 23:48:02,2025-11-20,45256,465861,"Pimple Saudagar,Pune","Chaat,Street Food",1,1,69,0,35,3,107,INR,Card,Delivered,5.0,26.0
+78,2025-01-21 10:15:50,2025-01-21,2033,148216,Sagar,"North Indian,Snacks",1,1,165,50,49,8,172,INR,UPI,Delivered,5.0,24.0
+79,2024-01-24 12:44:53,2024-01-24,31099,182734,Bhiwadi,North Indian,1,1,72,0,0,4,76,INR,Card,Delivered,3.0,29.0
+80,2025-08-18 09:03:31,2025-08-18,52805,566203,"Mogappair,Chennai","Healthy Food,Pizzas",2,2,197,0,15,10,222,INR,UPI,Delivered,5.0,27.0
+81,2024-07-13 14:01:29,2024-07-13,55915,335177,Gorakhpur,Indian,1,1,50,20,20,2,52,INR,Card,Delivered,3.0,34.0
+82,2026-06-29 17:53:06,2026-06-29,87594,513194,"Dilshad Gardens,Delhi","Chinese,Italian",1,1,147,0,25,7,179,INR,Card,Delivered,,58.0
+83,2025-09-08 13:04:08,2025-09-08,5611,379393,"Ramanathapuram,Coimbatore","Kerala,North Indian",3,3,686,0,20,34,740,INR,UPI,Delivered,5.0,42.0
+84,2025-09-16 15:29:13,2025-09-16,19537,461882,"Manikonda,Hyderabad","Indian,Chinese",4,5,899,0,20,45,964,INR,Wallet,Delivered,4.0,24.0
+85,2026-04-01 15:08:49,2026-04-01,89237,208628,"Whitefield,Bangalore",Desserts,1,1,75,0,15,4,94,INR,UPI,Delivered,5.0,38.0
+86,2024-04-29 15:23:28,2024-04-29,25227,452971,"Gachibowli,Hyderabad",Bakery,1,1,69,0,49,3,121,INR,UPI,Delivered,4.0,19.0
+87,2025-04-20 14:38:55,2025-04-20,87794,142005,Jodhpur,South Indian,1,1,168,0,25,8,201,INR,UPI,Delivered,,42.0
+88,2026-03-06 12:19:21,2026-03-06,26997,156122,"Attapur,Hyderabad","North Indian,Punjabi",1,2,570,0,25,28,623,INR,COD,Delivered,4.0,38.0
+89,2026-02-13 20:42:57,2026-02-13,24313,65168,"Panchkula,Chandigarh","Pastas,Pizzas",4,5,1043,0,0,52,1095,INR,NetBanking,Delivered,4.0,9.0
+90,2024-08-20 19:50:41,2024-08-20,86785,376052,"Panampilly Nagar,Kochi","Ice Cream,Desserts",1,2,142,0,20,7,169,INR,UPI,Delivered,3.0,37.0
+91,2024-03-31 07:56:52,2024-03-31,30067,143980,"Marathahalli,Bangalore",Biryani,3,4,641,0,25,32,698,INR,UPI,Delivered,4.0,33.0
+92,2025-06-29 15:55:56,2025-06-29,80829,548453,"BTM,Bangalore","North Indian,Biryani",2,2,171,0,15,9,195,INR,UPI,Delivered,,43.0
+93,2026-04-17 18:15:48,2026-04-17,77010,173117,Tirupur,Indian,3,3,344,46,15,17,330,INR,Wallet,Delivered,4.0,38.0
+94,2026-01-29 15:29:25,2026-01-29,93808,35053,"Madipakkam,Chennai","Beverages,South Indian",3,4,207,0,20,10,237,INR,Card,Delivered,4.0,44.0
+95,2024-02-19 11:18:48,2024-02-19,39098,96043,Meerut,"American,Fast Food",1,1,313,53,35,16,311,INR,COD,Delivered,,47.0
+96,2025-11-24 21:53:01,2025-11-24,6526,442035,Gandhidham,"Sweets,Snacks",3,5,419,160,0,21,280,INR,NetBanking,Delivered,,21.0
+97,2025-03-14 18:13:42,2025-03-14,3145,245136,Bhopal,"North Indian,Thalis",1,1,74,0,49,4,127,INR,UPI,Delivered,5.0,25.0
+98,2025-06-11 10:29:48,2025-06-11,32046,451455,Udaipur,"Tandoor,Chinese",4,8,1276,507,20,64,853,INR,COD,Delivered,,48.0
+99,2024-03-03 23:28:36,2024-03-03,70911,383712,"Whitefield,Bangalore","North Indian,Punjabi",2,2,190,21,0,10,179,INR,COD,Delivered,4.0,34.0
+100,2026-04-07 11:51:30,2026-04-07,88186,473204,Krishnagiri,"Indian,South Indian",1,2,50,6,0,2,46,INR,COD,Delivered,3.0,26.0
+101,2024-03-10 11:23:00,2024-03-10,57339,24417,"Kondhwa,Pune",Pizzas,1,1,267,79,25,13,226,INR,Card,Delivered,5.0,31.0
+102,2024-07-12 21:03:48,2024-07-12,3433,28981,"HSR,Bangalore",Desserts,2,2,425,0,25,21,471,INR,UPI,Refunded,,
+103,2024-10-04 12:52:48,2024-10-04,57680,567953,Bhiwani,"North Indian,Chinese",2,2,476,0,35,24,535,INR,Card,Delivered,5.0,47.0
+104,2024-03-08 14:14:09,2024-03-08,35759,16511,"Pimple Saudagar,Pune","North Indian,South Indian",3,3,229,0,25,11,265,INR,Card,Delivered,,45.0
+105,2025-05-07 19:07:31,2025-05-07,19804,436125,"Jadavpur,Kolkata","Mughlai,Biryani",1,1,145,0,0,7,152,INR,Card,Delivered,5.0,22.0
+106,2025-11-08 14:04:14,2025-11-08,49290,1125,"Madhapur,Hyderabad","Biryani,Andhra",2,2,459,64,15,23,433,INR,UPI,Delivered,4.0,37.0
+107,2025-04-30 21:19:41,2025-04-30,31799,40359,"South Chd,Chandigarh","Punjabi,North Indian",3,4,553,141,0,28,440,INR,UPI,Delivered,5.0,26.0
+108,2025-10-05 12:21:22,2025-10-05,82997,128810,Rohtak,"Continental,Pizzas",3,4,565,109,35,28,519,INR,Wallet,Cancelled,,
+109,2024-10-05 22:29:11,2024-10-05,31720,145671,"Athwa,Surat","Sweets,Snacks",2,4,260,0,35,13,308,INR,UPI,Delivered,4.0,24.0
+110,2024-02-16 20:55:57,2024-02-16,98432,529310,"South Extension,Delhi",Indian,1,1,233,76,35,12,204,INR,UPI,Delivered,5.0,55.0
+111,2024-09-29 21:42:12,2024-09-29,75766,509897,"Viman Nagar,Pune",Snacks,1,2,148,31,15,7,139,INR,NetBanking,Delivered,3.0,28.0
+112,2024-04-29 15:00:05,2024-04-29,42279,27481,Sultanpur,"Chinese,Combo",4,8,1075,0,25,54,1154,INR,UPI,Delivered,,44.0
+113,2026-04-18 20:22:17,2026-04-18,26136,24670,"Viman Nagar,Pune","Chinese,North Indian",1,1,293,0,20,15,328,INR,Card,Delivered,3.0,22.0
+114,2025-04-03 14:51:09,2025-04-03,8620,346200,"South Campus,Delhi","Indian,Seafood",3,4,1088,0,25,54,1167,INR,COD,Delivered,5.0,27.0
+115,2024-03-22 23:33:39,2024-03-22,1182,262078,Dharmapuri,Ice Cream,1,3,234,0,0,12,246,INR,UPI,Delivered,5.0,9.0
+116,2025-06-14 20:15:07,2025-06-14,83387,470595,Allahabad,Pizzas,3,3,580,0,15,29,624,INR,Wallet,Delivered,,53.0
+117,2025-06-11 08:20:48,2025-06-11,97315,337775,"Zirakpur,Chandigarh","Bakery,Snacks",3,3,291,106,15,15,215,INR,Card,Delivered,,37.0
+118,2025-02-18 19:28:10,2025-02-18,82663,345639,"Salt Lake,Kolkata","Sweets,Chaat",1,1,63,15,0,3,51,INR,UPI,Delivered,5.0,8.0
+119,2024-12-19 12:25:52,2024-12-19,21841,523084,"Howrah,Kolkata","Chinese,Fast Food",1,1,115,0,20,6,141,INR,COD,Delivered,4.0,18.0
+120,2024-03-03 18:56:39,2024-03-03,1078,552002,"Bhosari,Pune","Sweets,Snacks",2,4,473,145,20,24,372,INR,Card,Delivered,5.0,26.0
+121,2026-05-21 09:14:18,2026-05-21,14496,442044,"Santoshnagar & Saidabad,Hyderabad",Beverages,5,5,733,225,0,37,545,INR,Card,Delivered,5.0,34.0
+122,2025-08-20 18:09:47,2025-08-20,10878,509008,"Raj Nagar,Noida",American,3,5,1362,300,20,68,1150,INR,Card,Delivered,5.0,49.0
+123,2024-12-21 22:41:18,2024-12-21,56489,327755,Varanasi,Indian,1,2,316,0,15,16,347,INR,UPI,Delivered,4.0,30.0
+124,2025-07-17 17:13:23,2025-07-17,53407,39368,"Koramangala,Bangalore","Tandoor,Biryani",1,3,765,301,15,38,517,INR,UPI,Delivered,,38.0
+125,2025-01-24 15:03:52,2025-01-24,43968,118043,Rewa,"North Indian,Pizzas",3,4,477,108,35,24,428,INR,Card,Delivered,,8.0
+126,2024-03-21 21:49:14,2024-03-21,29613,384967,"Zirakpur,Chandigarh","Chinese,Snacks",1,1,99,29,25,5,100,INR,Wallet,Delivered,3.0,16.0
+127,2024-02-19 00:41:39,2024-02-19,4355,65736,"Avadi,Chennai","Andhra,Biryani",1,1,178,35,35,9,187,INR,Wallet,Cancelled,,
+128,2025-10-26 21:40:21,2025-10-26,44343,232600,"Lake Town,Kolkata","Fast Food,Chinese",4,4,527,0,15,26,568,INR,UPI,Delivered,4.0,29.0
+129,2024-08-27 13:40:40,2024-08-27,51917,32559,"Porur,Chennai",Bakery,4,5,535,0,25,27,587,INR,UPI,Delivered,5.0,27.0
+130,2024-10-11 11:50:56,2024-10-11,75210,313218,"Kalyani Nagar,Pune",Fast Food,3,3,1116,297,0,56,875,INR,Card,Cancelled,,
+131,2024-12-31 08:56:58,2024-12-31,13913,80697,Allahabad,"Bakery,Snacks",3,4,308,0,49,15,372,INR,COD,Delivered,,33.0
+132,2026-01-19 21:29:42,2026-01-19,42025,41270,"Abids & Koti,Hyderabad","North Indian,Biryani",4,4,615,106,0,31,540,INR,UPI,Cancelled,,
+133,2025-05-09 18:59:07,2025-05-09,61298,337861,"Central Bangalore,Bangalore","Japanese,Asian",3,6,3165,721,20,158,2622,INR,UPI,Delivered,,25.0
+134,2025-03-14 21:56:11,2025-03-14,88295,118644,Morbi,Snacks,1,1,166,0,0,8,174,INR,UPI,Delivered,4.0,34.0
+135,2025-09-28 22:51:10,2025-09-28,32216,468991,Jabalpur,"North Indian,Chinese",2,2,87,12,25,4,104,INR,Wallet,Delivered,4.0,37.0
+136,2026-03-06 17:13:44,2026-03-06,9539,442281,"Kothrud,Pune","Biryani,Desserts",1,1,103,26,20,5,102,INR,Wallet,Delivered,4.0,18.0
+137,2026-02-08 21:23:36,2026-02-08,91722,73807,Manipal,"American,Snacks",1,1,291,0,15,15,321,INR,UPI,Delivered,5.0,9.0
+138,2025-01-03 20:32:34,2025-01-03,52476,244287,Pondicherry,"Italian,Mexican",4,5,1401,0,0,70,1471,INR,UPI,Delivered,,8.0
+139,2025-09-07 10:31:34,2025-09-07,79678,474162,"Gomti Nagar,Lucknow",North Indian,1,1,140,0,20,7,167,INR,UPI,Delivered,,33.0
+140,2025-09-17 11:48:41,2025-09-17,27955,186452,"Marathahalli,Bangalore","Biryani,Andhra",1,1,114,0,20,6,140,INR,UPI,Delivered,,39.0
+141,2025-09-07 20:08:38,2025-09-07,68171,546299,"Matunga Wadala,Mumbai",Desserts,3,4,780,258,49,39,610,INR,UPI,Delivered,4.0,36.0
+142,2025-02-12 02:18:03,2025-02-12,64784,434794,"Jadavpur,Kolkata","Fast Food,Indian",2,2,270,0,15,14,299,INR,Card,Delivered,4.0,25.0
+143,2025-11-07 19:52:22,2025-11-07,422,451978,"Rohini,Delhi","Biryani,Indian",2,2,437,89,35,22,405,INR,UPI,Delivered,5.0,32.0
+144,2024-08-30 19:28:18,2024-08-30,65623,130357,"Marathahalli,Bangalore","Chinese,Thai",2,2,335,0,35,17,387,INR,UPI,Delivered,3.0,16.0
+145,2025-11-17 12:31:33,2025-11-17,97276,525182,Agra,"South Indian,Thalis",1,1,50,0,15,2,67,INR,UPI,Delivered,,20.0
+146,2026-05-11 21:07:06,2026-05-11,14479,89473,"Chattarpur,Delhi","Chinese,North Indian",1,2,260,71,20,13,222,INR,UPI,Delivered,5.0,10.0
+147,2025-08-24 13:09:50,2025-08-24,43574,479182,"Kalyani Nagar,Pune","Arabian,North Indian",3,6,960,0,15,48,1023,INR,Wallet,Delivered,4.0,25.0
+148,2025-07-09 22:34:06,2025-07-09,13208,493258,"Geddalahalli,Bangalore","North Indian,Chinese",2,2,255,82,20,13,206,INR,Wallet,Delivered,5.0,22.0
+149,2025-06-22 12:09:51,2025-06-22,60980,336920,"Benz Circle and Auto Nagar,Vijayawada",Biryani,1,1,159,33,0,8,134,INR,Wallet,Delivered,4.0,28.0
+150,2025-07-08 17:14:55,2025-07-08,60146,337196,"Yelahanka,Bangalore",Indian,2,2,227,0,25,11,263,INR,Wallet,Delivered,3.0,44.0
+151,2025-09-29 19:27:23,2025-09-29,95331,211873,Kumbakonam,"Biryani,Chinese",1,3,342,0,0,17,359,INR,Card,Delivered,,40.0
+152,2026-05-16 19:27:08,2026-05-16,96150,562948,"Jadavpur,Kolkata","Chinese,Tandoor",1,1,77,0,20,4,101,INR,Card,Delivered,4.0,26.0
+153,2024-11-17 15:46:03,2024-11-17,7027,484793,"Electronic City,Bangalore",Indian,3,3,615,0,0,31,646,INR,Card,Refunded,,
+154,2026-04-25 22:19:01,2026-04-25,42892,460783,Satara,"Chinese,Snacks",3,3,371,110,0,19,280,INR,UPI,Delivered,,37.0
+155,2024-10-22 14:09:19,2024-10-22,63018,66473,"Mulund,Mumbai","North Indian,Chinese",1,2,568,144,49,28,501,INR,UPI,Delivered,,39.0
+156,2024-12-07 12:41:49,2024-12-07,86135,77093,Thiruvananthapuram,"Arabian,Tandoor",2,3,1082,207,49,54,978,INR,UPI,Delivered,,21.0
+157,2025-08-11 18:55:35,2025-08-11,39547,58637,"Chandkheda,Ahmedabad","Indian,Combo",4,4,1500,0,0,75,1575,INR,Card,Delivered,5.0,30.0
+158,2025-05-07 21:31:32,2025-05-07,69979,251656,"Kadubeesanahalli,Bangalore","Biryani,Barbecue",2,3,1058,374,49,53,786,INR,Card,Delivered,,31.0
+159,2026-06-04 15:07:05,2026-06-04,90904,95922,Noida-1,"North Indian,South Indian",1,1,202,0,0,10,212,INR,Wallet,Delivered,,38.0
+160,2024-03-15 12:42:57,2024-03-15,71909,349811,"Jayanagar,Bangalore","Indian,Seafood",1,2,256,0,20,13,289,INR,Card,Cancelled,,
+161,2026-01-16 20:29:38,2026-01-16,59232,268871,Habra,"Combo,Chinese",4,5,431,97,25,22,381,INR,UPI,Delivered,,42.0
+162,2026-03-29 19:11:23,2026-03-29,34315,413481,"Indiranagar,Bangalore","Chinese,Asian",2,2,194,0,15,10,219,INR,Wallet,Delivered,5.0,42.0
+163,2024-01-07 13:12:39,2024-01-07,26767,364940,Rohtak,"North Indian,Punjabi",1,2,662,0,49,33,744,INR,Wallet,Delivered,,41.0
+164,2025-02-12 08:19:28,2025-02-12,26897,488201,"Old Gurgaon (Zone 6),Gurgaon",Sweets,1,1,172,26,15,9,170,INR,UPI,Delivered,,39.0
+165,2025-08-22 19:21:36,2025-08-22,43065,319462,Akola,"Chinese,Indian",1,2,180,0,35,9,224,INR,UPI,Cancelled,,
+166,2026-06-02 15:39:14,2026-06-02,35203,360391,"Ganeshguri,Guwahati","Indian,Biryani",1,1,103,0,25,5,133,INR,Card,Delivered,5.0,22.0
+167,2026-05-21 07:23:04,2026-05-21,30263,111879,"Lajpat Nagar,Delhi",Chinese,2,2,177,44,49,9,191,INR,Wallet,Delivered,4.0,24.0
+168,2024-11-20 17:41:23,2024-11-20,53789,547802,"Kumaraswamy Layout & Uttarahalli,Bangalore","Bengali,Biryani",3,3,395,43,0,20,372,INR,Wallet,Delivered,3.0,43.0
+169,2025-04-05 13:23:08,2025-04-05,91332,380812,"Nizampet & Pragathi Nagar,Hyderabad","Beverages,Snacks",1,2,402,88,35,20,369,INR,Wallet,Delivered,4.0,41.0
+170,2025-03-08 19:41:18,2025-03-08,14566,510823,"Perambur,Chennai","Lebanese,Chinese",4,6,1450,0,20,72,1542,INR,UPI,Delivered,5.0,20.0
+171,2025-12-14 06:14:08,2025-12-14,22667,14670,"Velachery,Chennai","Biryani,Chettinad",1,1,163,0,20,8,191,INR,Wallet,Cancelled,,
+172,2024-07-17 19:05:29,2024-07-17,48208,150823,"MVP Colony,Vizag",Beverages,4,8,825,100,35,41,801,INR,COD,Delivered,4.0,36.0
+173,2024-06-08 11:07:17,2024-06-08,814,518304,"Majestic,Bangalore","Indian,Italian",1,2,224,75,0,11,160,INR,Card,Delivered,5.0,11.0
+174,2025-01-27 19:49:42,2025-01-27,82320,415123,"Vasant Kunj,Delhi",North Indian,1,1,58,9,0,3,52,INR,UPI,Cancelled,,
+175,2025-12-22 21:31:22,2025-12-22,33787,486588,"Governorpet,Vijayawada",Sweets,2,3,493,0,20,25,538,INR,UPI,Delivered,4.0,33.0
+176,2025-03-07 14:52:48,2025-03-07,58347,305451,Kolhapur,"Tibetan,Beverages",4,4,297,61,15,15,266,INR,Wallet,Delivered,3.0,17.0
+177,2025-09-13 06:19:28,2025-09-13,65022,329229,Allahabad,"Biryani,North Indian",3,4,400,0,35,20,455,INR,COD,Delivered,,36.0
+178,2025-12-26 21:14:37,2025-12-26,72859,123411,"Ambattur,Chennai","North Indian,South Indian",2,2,290,93,35,14,246,INR,Card,Delivered,,39.0
+179,2024-09-23 13:26:37,2024-09-23,12938,317680,"Rajarhat,Kolkata","Bengali,Thalis",2,2,438,0,49,22,509,INR,Card,Refunded,,
+180,2025-03-12 20:55:52,2025-03-12,38459,253701,Meerut,"Bakery,Sweets",2,3,528,0,15,26,569,INR,UPI,Cancelled,,
+181,2024-01-29 15:53:05,2024-01-29,16916,357912,"George Town,Chennai","American,Snacks",2,2,344,93,35,17,303,INR,Card,Delivered,4.0,53.0
+182,2024-03-19 14:56:17,2024-03-19,15464,193476,"Kirti Nagar,Delhi","Snacks,North Indian",3,3,550,0,0,28,578,INR,UPI,Delivered,,24.0
+183,2025-08-30 22:01:42,2025-08-30,55472,559370,"Madhapur,Hyderabad",Beverages,4,4,323,46,15,16,308,INR,COD,Cancelled,,
+184,2025-06-13 12:39:54,2025-06-13,71541,302079,Aligarh,"Desserts,Ice Cream",2,3,300,118,15,15,212,INR,UPI,Delivered,,27.0
+185,2026-04-15 23:38:26,2026-04-15,89334,432505,"Wagholi,Pune","Snacks,Indian",2,2,259,0,0,13,272,INR,UPI,Delivered,,55.0
+186,2024-12-10 10:32:04,2024-12-10,75513,409321,"NSP,Delhi","Lebanese,Chinese",2,2,178,66,25,9,146,INR,NetBanking,Refunded,,
+187,2026-01-18 13:11:58,2026-01-18,92741,16655,"Banjara Hills,Hyderabad","Biryani,Mughlai",1,1,367,145,15,18,255,INR,Wallet,Delivered,,33.0
+188,2025-10-20 16:57:45,2025-10-20,45800,364881,Vellore,Beverages,4,4,224,0,15,11,250,INR,Card,Delivered,4.0,54.0
+189,2024-09-21 17:46:31,2024-09-21,17062,231990,"Zirakpur,Chandigarh","Beverages,Snacks",1,1,147,0,20,7,174,INR,Card,Delivered,4.0,23.0
+190,2025-05-25 17:31:52,2025-05-25,6232,23081,"Fort Colaba,Mumbai","Italian,Continental",4,6,4691,575,35,235,4386,INR,Card,Delivered,,33.0
+191,2024-06-06 13:06:51,2024-06-06,54900,34714,"Warje,Pune","North Indian,South Indian",1,1,253,0,35,13,301,INR,Card,Delivered,,28.0
+192,2025-03-23 19:46:46,2025-03-23,755,414550,Azamgarh,"North Indian,Desserts",1,1,250,73,15,12,204,INR,COD,Delivered,,30.0
+193,2025-08-22 12:30:02,2025-08-22,81124,371601,"Wagholi,Pune","North Indian,Biryani",3,5,1364,0,35,68,1467,INR,Wallet,Delivered,,30.0
+194,2026-02-15 13:27:21,2026-02-15,89556,196725,Raiganj,"North Indian,Chinese",1,2,888,0,35,44,967,INR,Wallet,Delivered,4.0,20.0
+195,2024-01-04 12:25:59,2024-01-04,58847,387015,Kakinada,Chinese,6,9,1765,0,25,88,1878,INR,Wallet,Delivered,5.0,41.0
+196,2024-05-21 10:54:17,2024-05-21,33431,62320,"Uttam Nagar,Delhi","North Indian,Mughlai",2,2,468,169,15,23,337,INR,Wallet,Delivered,4.0,31.0
+197,2026-02-20 22:16:33,2026-02-20,4281,60585,"Perambur,Chennai",South Indian,2,3,251,84,20,13,200,INR,Card,Delivered,2.0,38.0
+198,2024-08-21 19:22:40,2024-08-21,56732,375775,"Medavakkam,Chennai","Chinese,Biryani",2,2,420,0,0,21,441,INR,UPI,Delivered,,20.0
+199,2024-08-08 11:05:24,2024-08-08,23216,442642,"Dwarka Nagar,Vizag","Indian,Biryani",1,1,147,0,35,7,189,INR,COD,Delivered,,22.0
+200,2025-04-30 20:36:12,2025-04-30,29509,435962,"Hatibagan,Kolkata","North Indian,Barbecue",1,1,428,0,0,21,449,INR,UPI,Delivered,4.0,26.0
+201,2025-08-10 14:14:51,2025-08-10,45421,323659,"Rohini,Delhi",Pizzas,3,5,818,0,0,41,859,INR,UPI,Delivered,,21.0
+202,2025-01-12 22:08:33,2025-01-12,63274,244113,Aligarh,Indian,4,7,815,0,0,41,856,INR,Card,Delivered,,19.0
+203,2024-11-30 12:02:15,2024-11-30,40988,573203,Bhopal,"Chinese,North Indian",3,5,670,0,20,34,724,INR,Card,Delivered,,49.0
+204,2025-10-12 22:10:41,2025-10-12,38354,291861,"Old Palasia,Indore",Arabian,1,1,156,0,0,8,164,INR,COD,Delivered,5.0,26.0
+205,2025-02-17 10:51:09,2025-02-17,10208,206764,Kundapura,"South Indian,North Indian",5,5,851,0,35,43,929,INR,COD,Delivered,5.0,27.0
+206,2024-09-02 23:03:32,2024-09-02,62029,503759,"Whitefield,Bangalore","Snacks,Fast Food",2,2,369,142,20,18,265,INR,COD,Delivered,,34.0
+207,2025-10-01 19:48:30,2025-10-01,25559,423685,"Pimple Saudagar,Pune","North Indian,Maharashtrian",2,2,220,88,15,11,158,INR,COD,Delivered,4.0,28.0
+208,2024-07-30 15:30:46,2024-07-30,59360,21130,"Baner,Pune","South Indian,Chinese",2,4,160,36,49,8,181,INR,UPI,Delivered,5.0,37.0
+209,2025-06-01 14:51:59,2025-06-01,79748,371935,"Annanagar,Chennai",Paan,2,2,361,92,35,18,322,INR,UPI,Delivered,3.0,31.0
+210,2026-05-09 20:24:02,2026-05-09,27587,521740,"Dilshad Gardens,Delhi","Indian,Snacks",3,4,1028,0,35,51,1114,INR,Card,Delivered,,35.0
+211,2024-09-14 22:24:12,2024-09-14,32094,220196,"Perambur,Chennai","Continental,North Indian",1,1,63,17,0,3,49,INR,UPI,Delivered,,39.0
+212,2024-09-12 09:59:32,2024-09-12,41676,336063,"Banjara Hills,Hyderabad","Snacks,Indian",1,1,158,38,20,8,148,INR,UPI,Delivered,3.0,32.0
+213,2026-04-24 15:53:22,2026-04-24,29164,48663,"Yelahanka,Bangalore","Chinese,Mughlai",1,1,261,0,25,13,299,INR,Card,Cancelled,,
+214,2024-09-30 12:16:01,2024-09-30,12028,256254,"Rajouri Garden,Delhi","American,Snacks",2,2,545,0,25,27,597,INR,Card,Delivered,4.0,36.0
+215,2026-02-19 23:58:59,2026-02-19,8528,119758,Ranchi,"Tandoor,Mughlai",5,6,942,0,0,47,989,INR,COD,Delivered,,42.0
+216,2026-05-15 14:33:21,2026-05-15,13886,351480,"Marathahalli,Bangalore","Home Food,North Indian",1,1,78,16,15,4,81,INR,Card,Delivered,,45.0
+217,2024-02-16 19:51:40,2024-02-16,11289,349011,"Kadugodi,Bangalore","Chinese,Thai",1,1,230,0,25,12,267,INR,COD,Delivered,,14.0
+218,2026-02-05 21:41:53,2026-02-05,471,369448,"Nungambakkam,Chennai","Indian,Bengali",2,4,516,0,0,26,542,INR,UPI,Delivered,4.0,26.0
+219,2024-11-07 18:37:52,2024-11-07,88454,119517,"Mayur Vihar,Delhi","Pizzas,Italian",1,1,196,0,15,10,221,INR,Wallet,Delivered,5.0,34.0
+220,2025-01-16 16:37:03,2025-01-16,83689,22839,"Lake Town,Kolkata","Mughlai,Chinese",2,2,491,0,49,25,565,INR,Wallet,Delivered,,16.0
+221,2026-05-30 13:53:38,2026-05-30,88696,136621,"JP Nagar,Bangalore","Desserts,Bakery",2,2,111,39,35,6,113,INR,Card,Delivered,4.0,35.0
+222,2026-01-20 13:49:59,2026-01-20,20166,490158,"Warje,Pune","Maharashtrian,Thalis",4,4,504,198,0,25,331,INR,Wallet,Delivered,5.0,22.0
+223,2025-09-12 14:36:07,2025-09-12,64752,67796,"Bhawar Kuan,Indore","Lucknowi,North Indian",1,1,541,94,15,27,489,INR,UPI,Delivered,4.0,11.0
+224,2024-07-06 19:53:05,2024-07-06,44871,106200,"Adajan,Surat","North Indian,Chinese",2,2,378,105,0,19,292,INR,Card,Delivered,3.0,30.0
+225,2024-07-09 15:57:23,2024-07-09,35770,525401,"Raj Nagar,Noida","Kebabs,North Indian",4,4,700,146,0,35,589,INR,UPI,Delivered,4.0,30.0
+226,2024-06-19 12:22:55,2024-06-19,37336,477526,"Swargate,Pune",Desserts,3,3,60,0,25,3,88,INR,UPI,Delivered,4.0,24.0
+227,2024-09-01 10:39:52,2024-09-01,73767,56349,"Sadar,Nagpur","Bakery,Street Food",2,3,111,0,25,6,142,INR,Wallet,Cancelled,,
+228,2024-09-01 19:48:38,2024-09-01,26519,568190,"Kamothe,Mumbai","Chinese,North Indian",2,4,379,0,0,19,398,INR,Card,Delivered,4.0,32.0
+229,2024-10-26 14:55:41,2024-10-26,73992,227561,"Zirakpur,Chandigarh",Pizzas,2,2,343,51,25,17,334,INR,Card,Delivered,3.0,43.0
+230,2024-09-20 13:18:39,2024-09-20,35843,540887,Aurangabad,"Fast Food,Italian",3,3,320,0,20,16,356,INR,COD,Delivered,,32.0
+231,2026-01-29 12:57:37,2026-01-29,877,361091,Agra,"Biryani,Mughlai",2,4,4646,1689,15,232,3204,INR,Wallet,Delivered,,41.0
+232,2026-01-16 20:33:32,2026-01-16,24409,572810,"Zirakpur,Chandigarh","Burgers,Fast Food",3,3,408,0,35,20,463,INR,UPI,Delivered,,24.0
+233,2024-06-26 16:37:10,2024-06-26,87808,202654,Kumbakonam,South Indian,2,2,249,54,20,12,227,INR,UPI,Delivered,5.0,22.0
+234,2024-08-13 18:50:26,2024-08-13,50990,559786,Agra,Snacks,3,3,170,36,15,8,157,INR,COD,Delivered,,40.0
+235,2024-09-09 23:17:53,2024-09-09,70047,141984,Eluru,"Asian,Chinese",2,3,490,136,20,24,398,INR,UPI,Delivered,5.0,24.0
+236,2024-02-01 13:03:22,2024-02-01,26546,515774,Gondal,"Fast Food,Pizzas",2,3,137,50,15,7,109,INR,Wallet,Delivered,5.0,37.0
+237,2026-05-19 22:36:30,2026-05-19,68500,373352,Tirupur,Indian,2,2,357,0,15,18,390,INR,UPI,Delivered,4.0,28.0
+238,2025-06-10 20:15:29,2025-06-10,92288,502122,"Akota,Vadodara","Pizzas,Snacks",4,4,539,0,0,27,566,INR,NetBanking,Delivered,4.0,36.0
+239,2024-12-22 13:43:53,2024-12-22,52340,162587,Namakkal,"South Indian,North Indian",3,3,424,43,35,21,437,INR,Card,Delivered,,14.0
+240,2025-06-28 20:14:03,2025-06-28,91404,68851,"Ramanathapuram,Coimbatore","Biryani,Arabian",1,1,144,33,0,7,118,INR,Card,Delivered,4.0,28.0
+241,2026-03-03 19:24:05,2026-03-03,45171,251644,Nangal,"Beverages,Pizzas",3,4,290,0,35,14,339,INR,Card,Delivered,5.0,15.0
+242,2024-07-11 23:37:23,2024-07-11,73507,522552,Aruppukottai,"South Indian,Chinese",2,2,704,0,20,35,759,INR,UPI,Delivered,5.0,36.0
+243,2025-04-06 18:28:37,2025-04-06,83161,23890,Faridabad,"Mughlai,Indian",2,2,408,0,35,20,463,INR,NetBanking,Delivered,5.0,32.0
+244,2026-06-20 15:39:56,2026-06-20,14639,425659,Palani,"Continental,Chinese",1,1,208,0,20,10,238,INR,UPI,Delivered,,29.0
+245,2025-03-30 20:52:12,2025-03-30,14233,217040,"Bandra West,Mumbai","Chinese,Street Food",5,7,1046,0,35,52,1133,INR,Wallet,Delivered,5.0,26.0
+246,2026-04-17 19:21:13,2026-04-17,58817,562278,"Miyapur,Hyderabad","Arabian,Biryani",1,1,136,0,35,7,178,INR,Card,Delivered,5.0,25.0
+247,2026-05-27 11:16:26,2026-05-27,65918,51753,"Punjabi Bagh,Delhi","North Indian,Snacks",2,2,796,0,15,40,851,INR,Card,Delivered,4.0,26.0
+248,2024-01-06 20:40:21,2024-01-06,21150,51525,"Panchkula,Chandigarh","North Indian,Chinese",3,5,668,0,25,33,726,INR,COD,Delivered,,11.0
+249,2025-06-14 08:21:44,2025-06-14,83156,376549,"Mulund,Mumbai","Chinese,Biryani",3,3,425,43,20,21,423,INR,UPI,Delivered,,53.0
+250,2025-08-28 19:28:36,2025-08-28,71955,114019,Allahabad,"Beverages,Snacks",2,2,235,0,25,12,272,INR,Card,Delivered,4.0,31.0

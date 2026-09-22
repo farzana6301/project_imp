@@ -1,0 +1,252 @@
+,f_id,item,veg_or_non_veg
+0,fd0,Aloo Tikki Burger,Veg
+1,fd1,Veg Creamy Burger,Veg
+2,fd2,Cheese Burst Burger,Veg
+3,fd3,Paneer Creamy Burger,Veg
+4,fd4,Maxican Burger,Veg
+5,fd5,Bbq Chicken Burger,Non-veg
+6,fd6,Peri Peri Chicken Burger,Non-veg
+7,fd7,White Sauce,Veg
+8,fd8,Red Sauce,Veg
+9,fd9,Pink Sauce,Veg
+10,fd10,Masala Pasta,Veg
+11,fd11,Chicken Pasta,Non-veg
+12,fd12,Egg Pasta,Non-veg
+13,fd13,Noodles,Veg
+14,fd14,Singapuri Noodles,Veg
+15,fd15,Hakka Noodles,Veg
+16,fd16,Garlic Noodles,Veg
+17,fd17,Paneer Noodles,Veg
+18,fd18,Dry Manchurian,Veg
+19,fd19,Gravy Manchurian,Veg
+20,fd20,Cheese Chilly Dry,Veg
+21,fd21,Cheese Chilly Gravy,Veg
+22,fd22,Egg Chilly,Non-veg
+23,fd23,Chicken Chilly,Non-veg
+24,fd24,Spring Roll [2pc],Veg
+25,fd25,Momos [8pc],Veg
+26,fd26,Honey Chilly Patato,Veg
+27,fd27,Honey Chilly Cauliflower,Veg
+28,fd28,Veg Fried Rice,Veg
+29,fd29,Chicken Fried Rice,Non-veg
+30,fd30,Kfc Fried Chicken,Non-veg
+31,fd31,Fried Chicken,Non-veg
+32,fd32,Veg Mayo Sandwich,Veg
+33,fd33,Veg Creamy Sandwich,Veg
+34,fd34,Bombay Sandwich,Veg
+35,fd35,Paneer Tikka Sandwich,Veg
+36,fd36,Chicken Sandwich,Non-veg
+37,fd37,Peri Peri Sandwich,Veg
+38,fd38,Egg Sandwich,Non-veg
+39,fd39,Classical Fries,Veg
+40,fd40,Red Chilli Papper,Veg
+41,fd41,Creamy Fries,Veg
+42,fd42,Peri Peri Fries,Veg
+43,fd43,Egg Roll,Non-veg
+44,fd44,Veg Roll,Veg
+45,fd45,Paneer Roll,Veg
+46,fd46,Chicken Roll,Non-veg
+47,fd47,Egg Chicken Roll [Double],Non-veg
+48,fd48,Veg Wrapes,Veg
+49,fd49,Paneer Wrapes,Veg
+50,fd50,Peri Peri Chicken Wrapes,Non-veg
+51,fd51,Egg Wrapes,Non-veg
+52,fd52,Simple Garlic Bread,Veg
+53,fd53,Veg Garlic Bread,Veg
+54,fd54,Stuff Garlic Bread,Veg
+55,fd55,2 Alao Prantha + Dahi,Veg
+56,fd56,Bhature,Veg
+57,fd57,Spl Tiffen [Desi Ghee],Veg
+58,fd58,Piyaz Prantha Dahi,Veg
+59,fd59,Paneer Prantha + Dahi,Veg
+60,fd60,Veg Kulcha,Veg
+61,fd61,Veg Mayo Kulcha,Veg
+62,fd62,Masala Kulcha,Veg
+63,fd63,Paneer Kulcha,Veg
+64,fd64,Makhni Kulcha,Veg
+65,fd65,Masala Maggie 2 Packet,Veg
+66,fd66,Veg Maggie 2 Packet,Veg
+67,fd67,Tandoori Maggie 2 Packet,Veg
+68,fd68,Chicken Maggie,Non-veg
+69,fd69,Creamy Maggie,Veg
+70,fd70,Egg Maggie,Non-veg
+71,fd71,Pav Bhaji,Veg
+72,fd72,Creamy Pav Bhaji,Veg
+73,fd73,Virgin Moijto,Veg
+74,fd74,Blue Curracco,Veg
+75,fd75,Green Apple,Veg
+76,fd76,Pinacolado,Veg
+77,fd77,X Mass Punch,Veg
+78,fd78,Masala Coke,Veg
+79,fd79,Jaljeera,Veg
+80,fd80,Margherita Pizza,Veg
+81,fd81,Cheese Margherita [Double],Veg
+82,fd82,Capcicum Onion Pizza,Veg
+83,fd83,Mashroom Corn Pizza,Veg
+84,fd84,Only Corn Pizza,Veg
+85,fd85,Only Onion Pizza,Veg
+86,fd86,Onion Olive Pizza,Veg
+87,fd87,Vanila Shake,Veg
+88,fd88,Choclate Shake,Veg
+89,fd89,Staweberry Shake,Veg
+90,fd90,Oreo Shake,Veg
+91,fd91,Butter Scotch Shake,Veg
+92,fd92,Banana Shake,Veg
+93,fd93,Pineapple Shake,Veg
+94,fd94,Mango Shake,Veg
+95,fd95,Blue Berry Shake,Veg
+96,fd96,Nutela Shake,Veg
+97,fd97,Kit Kat Shake,Veg
+98,fd98,Kit   K at Shake,Veg
+99,fd99,Staweberry Oreo Shake,Veg
+100,fd100,Black Current Shake,Veg
+101,fd101,Brownie Shake,Veg
+102,fd102,Paneer Tikka Pizza,Veg
+103,fd103,Spicy Paneer Pizza,Veg
+104,fd104,Farm House Pizza,Veg
+105,fd105,Country Feast Pizza,Veg
+106,fd106,Paneer Makhni Pizza,Veg
+107,fd107,Otc Onion Tamato Corn Pizza,Veg
+108,fd108,Chicken Pizza,Non-veg
+109,fd109,Peri Peri Paneer Pizza,Veg
+110,fd110,Egg Pizza,Non-veg
+111,fd111,Mashroom Pizza,Veg
+112,fd112,Ab Special Pizza,Veg
+113,fd113,Classical Cold Coffee,Veg
+114,fd114,Hezelnut Cold Coffee,Veg
+115,fd115,Frape Cold Coffee,Veg
+116,fd116,Veg Grilled Sandwich,Veg
+117,fd117,Veg Sandwich,Veg
+118,fd118,Dhokla,Veg
+119,fd119,Channa Bhatura [2 Pc],Veg
+120,fd120,Chana Bhatura With Lassi,Veg
+121,fd122,Milk Badam Shake,Veg
+122,fd123,Namkeen Lassi,Veg
+123,fd124,Cold Coffee,Veg
+124,fd125,Butterscotch Shake,Veg
+125,fd129,Strawberry Shake,Veg
+126,fd130,Roohafza Milkshake,Veg
+127,fd131,Lassi [sweet],Veg
+128,fd132,Burgers Pack,Veg
+129,fd133,Barfi Pack,Veg
+130,fd134,Starters Combo,Veg
+131,fd135,Chai Time Combo,Veg
+132,fd136,South Special,Veg
+133,fd137,Snacks Combo,Veg
+134,fd138,Patties Combo,Veg
+135,fd139,Pastry Pack,Veg
+136,fd140,Modak Laddu,Veg
+137,fd141,Dhodha,Veg
+138,fd142,Baisan Barfi,Veg
+139,fd143,Rewari Barfi,Veg
+140,fd144,Kesar Laddu (desi Ghee),Veg
+141,fd145,Moti Pak (desi Ghee),Veg
+142,fd146,Pinni (desi Ghee),Veg
+143,fd147,Sohan Halwa,Veg
+144,fd148,Kalakand,Veg
+145,fd149,Chocolate Burfi,Veg
+146,fd150,Elaichi Burfi,Veg
+147,fd151,Kesar Katli,Veg
+148,fd152,Khoya Katli,Veg
+149,fd153,Mandakini Burfi,Veg
+150,fd154,Plain Burfi,Veg
+151,fd155,Anguri Petha,Veg
+152,fd156,Khurmani,Veg
+153,fd157,Murki Chhena,Veg
+154,fd158,Spungi Rasbhari,Veg
+155,fd159,Rasbhari,Veg
+156,fd160,Chamcham,Veg
+157,fd161,Tosha,Veg
+158,fd162,Rasgulla,Veg
+159,fd163,Gulab Jamun,Veg
+160,fd164,Rasmalai [1 Piece],Veg
+161,fd165,Spungi Rasgulla [1 Piece],Veg
+162,fd166,Emarti,Veg
+163,fd167,Jullie,Veg
+164,fd168,Kaju Katli,Veg
+165,fd169,Kesar Laddu,Veg
+166,fd170,Moti Choor Laddu,Veg
+167,fd171,Baisan Pinni,Veg
+168,fd172,Dry Fruit Pinni,Veg
+169,fd173,Mango Pera,Veg
+170,fd174,Chana Laddu,Veg
+171,fd175,Chocolate Roll,Veg
+172,fd176,Kesar Roll,Veg
+173,fd177,Pista Roll,Veg
+174,fd178,Malai Pera,Veg
+175,fd179,Mini Pera,Veg
+176,fd180,Badam Cake,Veg
+177,fd181,Coconut Burfi,Veg
+178,fd182,Milk Cake,Veg
+179,fd183,Boondi,Veg
+180,fd184,Sandwich [mithai],Veg
+181,fd185,Aam Papad Roll,Veg
+182,fd186,Soan Papdi [1 Kg],Veg
+183,fd187,Sirni [500 Grams],Veg
+184,fd188,Balushai [500 Grams],Veg
+185,fd189,Shakarpare [500 Grams],Veg
+186,fd190,Gurpare [500 Grams],Veg
+187,fd191,Hot Gulab Jamun [1 Pc],Veg
+188,fd192,Basket Gift Pack,Veg
+189,fd193,Dry Fruit Tray,Veg
+190,fd194,All Mix Sweet,Veg
+191,fd195,3 Line Mix Sweet,Veg
+192,fd196,Pista Roasted,Veg
+193,fd197,Kishmish,Veg
+194,fd198,Badam Giri,Veg
+195,fd199,Kaju Namkeen Roasted,Veg
+196,fd200,Kaju Plain,Veg
+197,fd201,Dahi,Veg
+198,fd202,Paneer,Veg
+199,fd203,Bhalla Papdi,Veg
+200,fd204,Dahi Bhalla,Veg
+201,fd205,Dahi Vada,Veg
+202,fd206,Special Pav Bhaji,Veg
+203,fd208,Cheese Cutlet,Veg
+204,fd209,Veg Cutlet,Veg
+205,fd210,Noodles Cutlet,Veg
+206,fd211,Paneer Pakoda,Veg
+207,fd212,Samosa,Veg
+208,fd213,Samosa With Chana,Veg
+209,fd214,Masala Papad,Veg
+210,fd215,Noodles Patties,Veg
+211,fd216,Veg Patties,Veg
+212,fd217,Paneer Patties,Veg
+213,fd218,Cheese Burger Fry,Veg
+214,fd219,Veg Burger Fry,Veg
+215,fd220,Tikki Burger,Veg
+216,fd221,Noodles Burger,Veg
+217,fd222,Cheese Hot Dog,Veg
+218,fd223,Veg Hot Dog,Veg
+219,fd224,Mushroom Chowmein,Veg
+220,fd225,Special Chowmein,Veg
+221,fd226,Paneer Chowmein,Veg
+222,fd228,Singapore Chopsuey,Veg
+223,fd229,American Chopsuey,Veg
+224,fd230,Cheese Tikka Fry,Veg
+225,fd231,Cheese Corn Roll,Veg
+226,fd232,Cheese Spring Roll,Veg
+227,fd233,Veg Spring Roll,Veg
+228,fd234,Cheese Manchurian With Gravy,Veg
+229,fd235,Cheese Manchurian,Veg
+230,fd236,Veg Manchurian With Gravy,Veg
+231,fd237,Veg Manchurian,Veg
+232,fd238,Mushroom Chilly,Veg
+233,fd239,Cheese Chilli With Gravy,Veg
+234,fd240,Cheese Chilli,Veg
+235,fd241,French Fries,Veg
+236,fd242,Cheese Finger,Veg
+237,fd243,Potato Finger,Veg
+238,fd244,Veg Bullet,Veg
+239,fd245,Cheese Kabab,Veg
+240,fd246,Veg Kabab,Veg
+241,fd247,Veg Cotton Kabab,Veg
+242,fd248,Sambar Vada,Veg
+243,fd249,Mushroom Uttapam,Veg
+244,fd250,Cheese Uttapam,Veg
+245,fd251,Onion Uttapam,Veg
+246,fd252,Special Family Dosa,Veg
+247,fd253,Mushroom Masala Dosa,Veg
+248,fd254,Paneer Dosa,Veg
+249,fd255,Masala Dosa,Veg
+250,fd256,Plain Dosa,Veg

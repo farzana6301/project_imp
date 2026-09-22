@@ -1,0 +1,252 @@
+,menu_id,r_id,f_id,cuisine,price
+0,mn0,567335,fd0,"Beverages,Pizzas",40.0
+1,mn0,567335,fd669322,"Beverages,Pizzas",40.0
+2,mn328,158203,fd0,Beverages,65.0
+3,mn328,158203,fd669322,Beverages,65.0
+4,mn449,158203,fd0,Beverages,65.0
+5,mn449,158203,fd669322,Beverages,65.0
+6,mn729,158204,fd0,Continental,60.0
+7,mn729,158204,fd669322,Continental,60.0
+8,mn755,158204,fd0,Continental,60.0
+9,mn755,158204,fd669322,Continental,60.0
+10,mn967,407249,fd0,"Juices,Beverages",52.0
+11,mn967,407249,fd669322,"Juices,Beverages",52.0
+12,mn1522,257181,fd0,Indian,30.0
+13,mn1522,257181,fd669322,Indian,30.0
+14,mn1848,435582,fd0,"Pizzas,Beverages",55.0
+15,mn1848,435582,fd669322,"Pizzas,Beverages",55.0
+16,mn2023,382204,fd0,"Chinese,Pizzas",60.0
+17,mn2023,382204,fd669322,"Chinese,Pizzas",60.0
+18,mn3143,459775,fd0,"Beverages,Pizzas",49.0
+19,mn3143,459775,fd669322,"Beverages,Pizzas",49.0
+20,mn3568,187915,fd0,"North Indian,Fast Food",45.0
+21,mn3568,187915,fd669322,"North Indian,Fast Food",45.0
+22,mn3574,187915,fd0,"North Indian,Fast Food",45.0
+23,mn3574,187915,fd669322,"North Indian,Fast Food",45.0
+24,mn14454,263185,fd0,"Bakery,Beverages",179.0
+25,mn14454,263185,fd669322,"Bakery,Beverages",179.0
+26,mn14622,263185,fd0,"Bakery,Beverages",179.0
+27,mn14622,263185,fd669322,"Bakery,Beverages",179.0
+28,mn14909,109549,fd0,"Bakery,Pizzas",240.0
+29,mn14909,109549,fd669322,"Bakery,Pizzas",240.0
+30,mn16906,447526,fd0,"Pizzas,Pastas",99.0
+31,mn16906,447526,fd669322,"Pizzas,Pastas",99.0
+32,mn21188,186264,fd0,"Pizzas,Snacks",129.0
+33,mn21188,186264,fd669322,"Pizzas,Snacks",129.0
+34,mn21230,186264,fd0,"Pizzas,Snacks",129.0
+35,mn21230,186264,fd669322,"Pizzas,Snacks",129.0
+36,mn21890,153339,fd0,"Indian,Chinese",249.0
+37,mn21890,153339,fd669322,"Indian,Chinese",249.0
+38,mn30897,547588,fd0,"Beverages,Fast Food",55.0
+39,mn30897,547588,fd669322,"Beverages,Fast Food",55.0
+40,mn31752,300380,fd0,"Burgers,Street Food",54.0
+41,mn31752,300380,fd669322,"Burgers,Street Food",54.0
+42,mn31764,300380,fd0,"Burgers,Street Food",54.0
+43,mn31764,300380,fd669322,"Burgers,Street Food",54.0
+44,mn33507,302166,fd0,"Pizzas,Burgers",54.0
+45,mn33507,302166,fd669322,"Pizzas,Burgers",54.0
+46,mn35818,394135,fd0,"North Indian,Lucknowi",55.0
+47,mn35818,394135,fd669322,"North Indian,Lucknowi",55.0
+48,mn36168,553063,fd0,"Fast Food,Pizzas",45.0
+49,mn36168,553063,fd669322,"Fast Food,Pizzas",45.0
+50,mn36268,553063,fd0,"Fast Food,Pizzas",45.0
+51,mn36268,553063,fd669322,"Fast Food,Pizzas",45.0
+52,mn39816,183499,fd0,"Indian,Chinese",159.0
+53,mn39816,183499,fd669322,"Indian,Chinese",159.0
+54,mn49170,354337,fd0,"American,Pizzas",279.0
+55,mn49170,354337,fd669322,"American,Pizzas",279.0
+56,mn59899,381622,fd0,"Bakery,Indian",150.0
+57,mn59899,381622,fd669322,"Bakery,Indian",150.0
+58,mn67923,452112,fd0,"Bakery,Pizzas",60.0
+59,mn67923,452112,fd669322,"Bakery,Pizzas",60.0
+60,mn69128,75774,fd0,"North Indian,Chinese",84.0
+61,mn69128,75774,fd669322,"North Indian,Chinese",84.0
+62,mn69201,75774,fd0,"North Indian,Chinese",84.0
+63,mn69201,75774,fd669322,"North Indian,Chinese",84.0
+64,mn71462,84614,fd0,"Beverages,Fast Food",119.0
+65,mn71462,84614,fd669322,"Beverages,Fast Food",119.0
+66,mn71580,91226,fd0,Beverages,80.0
+67,mn71580,91226,fd669322,Beverages,80.0
+68,mn73606,558581,fd0,"Chinese,Fast Food",69.0
+69,mn73606,558581,fd669322,"Chinese,Fast Food",69.0
+70,mn74644,73718,fd0,"Chinese,Desserts",90.0
+71,mn74644,73718,fd669322,"Chinese,Desserts",90.0
+72,mn75525,75401,fd0,"North Indian,Chinese",65.0
+73,mn75525,75401,fd669322,"North Indian,Chinese",65.0
+74,mn75718,301904,fd0,"Italian,Beverages",70.0
+75,mn75718,301904,fd669322,"Italian,Beverages",70.0
+76,mn84162,352457,fd0,"Indian,Continental",50.0
+77,mn84162,352457,fd669322,"Indian,Continental",50.0
+78,mn84585,322586,fd0,Italian,60.0
+79,mn84585,322586,fd669322,Italian,60.0
+80,mn85707,510962,fd0,"Fast Food,Pizzas",70.0
+81,mn85707,510962,fd669322,"Fast Food,Pizzas",70.0
+82,mn86604,82202,fd0,Italian,63.0
+83,mn86604,82202,fd669322,Italian,63.0
+84,mn86621,82202,fd0,Italian,63.0
+85,mn86621,82202,fd669322,Italian,63.0
+86,mn86807,136670,fd0,"Desserts,Sweets",65.0
+87,mn86807,136670,fd669322,"Desserts,Sweets",65.0
+88,mn89521,93961,fd0,Italian,58.0
+89,mn89521,93961,fd669322,Italian,58.0
+90,mn90195,483237,fd0,"Indian,Fast Food",55.0
+91,mn90195,483237,fd669322,"Indian,Fast Food",55.0
+92,mn90856,476843,fd0,"Chinese,South Indian",89.0
+93,mn90856,476843,fd669322,"Chinese,South Indian",89.0
+94,mn90985,570636,fd0,"Street Food,Snacks",55.0
+95,mn90985,570636,fd669322,"Street Food,Snacks",55.0
+96,mn94065,505383,fd0,"Beverages,Fast Food",125.0
+97,mn94065,505383,fd669322,"Beverages,Fast Food",125.0
+98,mn94303,489445,fd0,Fast Food,75.0
+99,mn94303,489445,fd669322,Fast Food,75.0
+100,mn94981,95337,fd0,"Maharashtrian,North Indian",55.0
+101,mn94981,95337,fd669322,"Maharashtrian,North Indian",55.0
+102,mn95726,556732,fd0,"Snacks,Fast Food",55.0
+103,mn95726,556732,fd669322,"Snacks,Fast Food",55.0
+104,mn96487,557067,fd0,"Snacks,Fast Food",55.0
+105,mn96487,557067,fd669322,"Snacks,Fast Food",55.0
+106,mn96599,556815,fd0,"Street Food,Fast Food",55.0
+107,mn96599,556815,fd669322,"Street Food,Fast Food",55.0
+108,mn101450,431256,fd0,"Bakery,Continental",90.0
+109,mn101450,431256,fd669322,"Bakery,Continental",90.0
+110,mn109587,409355,fd0,Indian,150.0
+111,mn109587,409355,fd669322,Indian,150.0
+112,mn110615,100010,fd0,"Pizzas,Pastas",175.0
+113,mn110615,100010,fd669322,"Pizzas,Pastas",175.0
+114,mn110721,100010,fd0,"Pizzas,Pastas",175.0
+115,mn110721,100010,fd669322,"Pizzas,Pastas",175.0
+116,mn115039,65412,fd0,Snacks,50.0
+117,mn115039,65412,fd669322,Snacks,50.0
+118,mn115519,36753,fd0,"Indian,Fast Food",75.0
+119,mn115519,36753,fd669322,"Indian,Fast Food",75.0
+120,mn117642,474005,fd0,"Fast Food,Beverages",60.0
+121,mn117642,474005,fd669322,"Fast Food,Beverages",60.0
+122,mn118842,464456,fd0,"American,Snacks",125.0
+123,mn118842,464456,fd669322,"American,Snacks",125.0
+124,mn122696,561905,fd0,"Italian,Fast Food",99.0
+125,mn122696,561905,fd669322,"Italian,Fast Food",99.0
+126,mn128286,569707,fd0,"Ice Cream,American",55.0
+127,mn128286,569707,fd669322,"Ice Cream,American",55.0
+128,mn128415,489905,fd0,"Pan-Asian,Chinese",129.0
+129,mn128415,489905,fd669322,"Pan-Asian,Chinese",129.0
+130,mn133029,106309,fd0,Continental,75.0
+131,mn133029,106309,fd669322,Continental,75.0
+132,mn133038,106309,fd0,Continental,75.0
+133,mn133038,106309,fd669322,Continental,75.0
+134,mn133868,51680,fd0,Beverages,200.0
+135,mn133868,51680,fd669322,Beverages,200.0
+136,mn134160,51685,fd0,Beverages,95.0
+137,mn134160,51685,fd669322,Beverages,95.0
+138,mn134220,51685,fd0,Beverages,95.0
+139,mn134220,51685,fd669322,Beverages,95.0
+140,mn134733,416752,fd0,"Fast Food,Snacks",160.0
+141,mn134733,416752,fd669322,"Fast Food,Snacks",160.0
+142,mn136006,310367,fd0,"Snacks,Italian",80.0
+143,mn136006,310367,fd669322,"Snacks,Italian",80.0
+144,mn136047,310367,fd0,"Snacks,Italian",80.0
+145,mn136047,310367,fd669322,"Snacks,Italian",80.0
+146,mn139076,543430,fd0,"Italian-American,Fast Food",50.0
+147,mn139076,543430,fd669322,"Italian-American,Fast Food",50.0
+148,mn142368,361592,fd0,"Italian,Chinese",148.0
+149,mn142368,361592,fd669322,"Italian,Chinese",148.0
+150,mn143511,473959,fd0,"American,Fast Food",185.0
+151,mn143511,473959,fd669322,"American,Fast Food",185.0
+152,mn149237,114922,fd0,Indian,70.0
+153,mn149237,114922,fd669322,Indian,70.0
+154,mn149712,505482,fd0,"Beverages,Pizzas",80.0
+155,mn149712,505482,fd669322,"Beverages,Pizzas",80.0
+156,mn150397,439917,fd0,"Fast Food,North Indian",205.0
+157,mn150397,439917,fd669322,"Fast Food,North Indian",205.0
+158,mn152907,63622,fd0,Beverages,95.0
+159,mn152907,63622,fd669322,Beverages,95.0
+160,mn153070,63622,fd0,Beverages,95.0
+161,mn153070,63622,fd669322,Beverages,95.0
+162,mn155209,63517,fd0,Pizzas,60.0
+163,mn155209,63517,fd669322,Pizzas,60.0
+164,mn158798,490793,fd0,"Pizzas,Fast Food",50.0
+165,mn158798,490793,fd669322,"Pizzas,Fast Food",50.0
+166,mn160509,352851,fd0,Combo,68.0
+167,mn160509,352851,fd669322,Combo,68.0
+168,mn161266,132287,fd0,Bakery,68.0
+169,mn161266,132287,fd669322,Bakery,68.0
+170,mn161345,132287,fd0,Bakery,68.0
+171,mn161345,132287,fd669322,Bakery,68.0
+172,mn162334,369994,fd0,"Italian,Indian",60.0
+173,mn162334,369994,fd669322,"Italian,Indian",60.0
+174,mn163328,323741,fd0,"Pizzas,Snacks",55.0
+175,mn163328,323741,fd669322,"Pizzas,Snacks",55.0
+176,mn164791,573112,fd0,"Cafe,Fast Food",60.0
+177,mn164791,573112,fd669322,"Cafe,Fast Food",60.0
+178,mn170581,379352,fd0,Snacks,60.0
+179,mn170581,379352,fd669322,Snacks,60.0
+180,mn170615,543712,fd0,"Fast Food,Snacks",55.0
+181,mn170615,543712,fd669322,"Fast Food,Snacks",55.0
+182,mn175158,194256,fd0,"Snacks,Italian",50.0
+183,mn175158,194256,fd669322,"Snacks,Italian",50.0
+184,mn175292,550903,fd0,"Beverages,Italian-American",130.0
+185,mn175292,550903,fd669322,"Beverages,Italian-American",130.0
+186,mn176660,563683,fd0,"Fast Food,Pizzas",60.0
+187,mn176660,563683,fd669322,"Fast Food,Pizzas",60.0
+188,mn180955,352725,fd0,"Beverages,Snacks",60.0
+189,mn180955,352725,fd669322,"Beverages,Snacks",60.0
+190,mn182260,528114,fd0,"Fast Food,Snacks",70.0
+191,mn182260,528114,fd669322,"Fast Food,Snacks",70.0
+192,mn182497,521044,fd0,"Fast Food,Snacks",55.0
+193,mn182497,521044,fd669322,"Fast Food,Snacks",55.0
+194,mn182808,323011,fd0,"Street Food,Continental",84.0
+195,mn182808,323011,fd669322,"Street Food,Continental",84.0
+196,mn184046,55549,fd0,"Fast Food,Snacks",50.0
+197,mn184046,55549,fd669322,"Fast Food,Snacks",50.0
+198,mn184117,55549,fd0,"Fast Food,Snacks",50.0
+199,mn184117,55549,fd669322,"Fast Food,Snacks",50.0
+200,mn184961,435577,fd0,Desserts,90.0
+201,mn184961,435577,fd669322,Desserts,90.0
+202,mn185992,95663,fd0,"Street Food,Desserts",70.0
+203,mn185992,95663,fd669322,"Street Food,Desserts",70.0
+204,mn186030,95663,fd0,"Street Food,Desserts",70.0
+205,mn186030,95663,fd669322,"Street Food,Desserts",70.0
+206,mn189899,340368,fd0,"Indian,Continental",80.0
+207,mn189899,340368,fd669322,"Indian,Continental",80.0
+208,mn192632,36340,fd0,Street Food,99.0
+209,mn192632,36340,fd669322,Street Food,99.0
+210,mn192931,504989,fd0,"Beverages,Fast Food",80.0
+211,mn192931,504989,fd669322,"Beverages,Fast Food",80.0
+212,mn194283,50581,fd0,North Indian,55.0
+213,mn194283,50581,fd669322,North Indian,55.0
+214,mn194369,524212,fd0,"Fast Food,Pizzas",99.0
+215,mn194369,524212,fd669322,"Fast Food,Pizzas",99.0
+216,mn200446,248030,fd0,"Pizzas,Pastas",175.0
+217,mn200446,248030,fd669322,"Pizzas,Pastas",175.0
+218,mn200573,248030,fd0,"Pizzas,Pastas",175.0
+219,mn200573,248030,fd669322,"Pizzas,Pastas",175.0
+220,mn203656,337247,fd0,"North Indian,Snacks",55.0
+221,mn203656,337247,fd669322,"North Indian,Snacks",55.0
+222,mn207012,253531,fd0,Beverages,60.0
+223,mn207012,253531,fd669322,Beverages,60.0
+224,mn207089,504350,fd0,"Fast Food,Chinese",130.0
+225,mn207089,504350,fd669322,"Fast Food,Chinese",130.0
+226,mn212339,382302,fd0,Snacks,50.0
+227,mn212339,382302,fd669322,Snacks,50.0
+228,mn212532,489818,fd0,"Snacks,Fast Food",50.0
+229,mn212532,489818,fd669322,"Snacks,Fast Food",50.0
+230,mn213298,487880,fd0,"Fast Food,Italian",50.0
+231,mn213298,487880,fd669322,"Fast Food,Italian",50.0
+232,mn213547,480794,fd0,"North Indian,Fast Food",100.0
+233,mn213547,480794,fd669322,"North Indian,Fast Food",100.0
+234,mn215672,546367,fd0,"Fast Food,Snacks",139.0
+235,mn215672,546367,fd669322,"Fast Food,Snacks",139.0
+236,mn217099,243905,fd0,"Beverages,Chaat",95.0
+237,mn217099,243905,fd669322,"Beverages,Chaat",95.0
+238,mn217234,243905,fd0,"Beverages,Chaat",95.0
+239,mn217234,243905,fd669322,"Beverages,Chaat",95.0
+240,mn218180,327379,fd0,"Beverages,Pizzas",112.0
+241,mn218180,327379,fd669322,"Beverages,Pizzas",112.0
+242,mn218272,327379,fd0,"Beverages,Pizzas",80.0
+243,mn218272,327379,fd669322,"Beverages,Pizzas",80.0
+244,mn218298,509078,fd0,"Fast Food,American",90.0
+245,mn218298,509078,fd669322,"Fast Food,American",90.0
+246,mn222567,226063,fd0,"American,Indian",90.0
+247,mn222567,226063,fd669322,"American,Indian",90.0
+248,mn224454,521333,fd0,"Fast Food,North Indian",109.0
+249,mn224454,521333,fd669322,"Fast Food,North Indian",109.0
+250,mn226727,312138,fd0,"Pizzas,Indian",50.0

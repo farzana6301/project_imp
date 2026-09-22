@@ -1,0 +1,251 @@
+review_id,order_id,user_id,restaurant_id,rating,comment,review_date
+1,781348,38898,431632,4,Great eco-friendly packaging. Delivered right on time.,2025-07-15
+2,3583010,2176,337664,2,Far too expensive for what you get.,2025-05-27
+3,2881594,34878,177824,3,An average experience overall.,2025-03-20
+4,2614042,8485,523405,5,The delivery partner was polite and helpful.,2025-05-29
+5,6072697,54998,461181,5,Great eco-friendly packaging.,2024-11-25
+6,4355801,8820,330030,2,Gravy spilled all over the bag.,2025-12-03
+7,8526348,51683,50642,5,"Great eco-friendly packaging. Authentic taste, cooked perfectly.",2024-06-21
+8,9618844,94010,532252,2,"Oily, stale and tasteless. Far too expensive for what you get.",2025-03-22
+9,9293457,11792,215230,3,An average experience overall.,2024-07-04
+10,7119338,92769,551997,4,The food was absolutely delicious.,2025-12-21
+11,1183756,65231,444365,5,"Smooth, hassle-free experience. Great value for the price.",2025-10-24
+12,7367250,46221,547264,5,"Authentic taste, cooked perfectly. Smooth, hassle-free experience.",2025-03-08
+13,8624821,47612,522883,5,Super fast delivery.,2026-06-04
+14,286616,22890,350794,4,Totally worth every rupee.,2024-03-03
+15,1618127,70587,397247,4,The delivery partner was polite and helpful.,2024-05-19
+16,903674,10922,242022,4,Great eco-friendly packaging.,2024-06-24
+17,6970420,47792,261824,1,Gravy spilled all over the bag.,2025-02-22
+18,9012655,60926,412326,3,"Fine, would maybe order again.",2025-09-21
+19,8065914,74533,558777,4,One of the best meals i've ordered. Totally worth every rupee.,2026-02-01
+20,8585468,4285,197575,1,"Oily, stale and tasteless. Gravy spilled all over the bag.",2024-03-03
+21,1687711,91631,371824,5,Great value for the price. One of the best meals i've ordered.,2024-02-06
+22,4711494,46877,377222,5,Arrived earlier than expected. Totally worth every rupee.,2025-09-12
+23,2919919,96427,311486,4,The food was absolutely delicious.,2025-12-25
+24,1430503,58963,258386,5,One of the best meals i've ordered.,2025-10-18
+25,4134682,80152,469823,5,The food was absolutely delicious. Great value for the price.,2025-12-08
+26,3072578,62336,441657,4,Great value for the price. Neatly packed with no spills.,2024-11-21
+27,1083258,22225,548392,4,Super fast delivery.,2024-09-09
+28,269752,56248,131453,1,"Oily, stale and tasteless. Gravy spilled all over the bag.",2024-06-20
+29,1988871,87910,332166,4,Delivered right on time.,2024-02-15
+30,8830081,9065,371479,4,"The delivery partner was polite and helpful. Authentic taste, cooked perfectly.",2026-04-20
+31,7630892,72708,483576,4,The delivery partner was polite and helpful. The food was absolutely delicious.,2025-10-18
+32,3661909,31204,385272,5,Neatly packed with no spills.,2024-06-11
+33,4747765,59356,429552,5,Totally worth every rupee. Delivered right on time.,2024-02-22
+34,4359765,41711,577243,5,"Authentic taste, cooked perfectly. Totally worth every rupee.",2024-11-30
+35,6268966,51956,84450,3,Decent but could be better.,2024-09-29
+36,1283019,91006,432038,5,"Fresh, hot and full of flavor.",2024-02-10
+37,7044832,8393,266289,5,Neatly packed with no spills.,2025-11-26
+38,3705181,74453,468391,5,"Smooth, hassle-free experience.",2024-12-08
+39,2013259,76485,41442,2,The delivery partner was rude.,2025-06-14
+40,3447132,86689,543752,5,Totally worth every rupee. Arrived earlier than expected.,2026-02-12
+41,2773344,58909,464264,5,"Authentic taste, cooked perfectly.",2025-02-17
+42,598746,25198,372702,2,The delivery partner was rude. Gravy spilled all over the bag.,2026-02-16
+43,9552074,81146,365328,4,The delivery partner was polite and helpful. Great eco-friendly packaging.,2024-07-17
+44,4548484,58516,432884,2,The packaging leaked everywhere. Quality has really dropped lately.,2025-10-25
+45,51385,18384,61441,4,Arrived earlier than expected.,2026-02-25
+46,768482,89974,102217,3,"Fine, would maybe order again.",2026-02-18
+47,836142,73764,511012,5,Totally worth every rupee.,2024-04-24
+48,5739434,31883,293425,4,One of the best meals i've ordered.,2024-03-14
+49,9246911,94647,81658,4,Great eco-friendly packaging.,2025-08-31
+50,5692708,48833,54972,2,"Got the wrong order entirely. Oily, stale and tasteless.",2026-06-14
+51,2636395,75777,531870,5,Great value for the price.,2024-01-29
+52,5381803,61635,120649,4,Delivered right on time.,2025-09-14
+53,8723496,3826,556005,5,"Smooth, hassle-free experience.",2024-11-23
+54,8466382,29309,557723,5,Totally worth every rupee. Great eco-friendly packaging.,2026-03-10
+55,7895234,40956,297224,5,Neatly packed with no spills. The delivery partner was polite and helpful.,2024-06-14
+56,9087382,11912,529448,5,"Great value for the price. Smooth, hassle-free experience.",2024-04-04
+57,5537662,59401,414589,2,Far too expensive for what you get.,2026-06-13
+58,6732356,55397,504983,5,Totally worth every rupee.,2024-06-20
+59,1546295,35862,324100,1,Arrived way too late. Far too expensive for what you get.,2025-11-08
+60,8832747,51221,557787,4,Great eco-friendly packaging. Totally worth every rupee.,2024-11-03
+61,527508,8349,430938,4,Great eco-friendly packaging.,2025-12-21
+62,3840708,33666,74684,4,One of the best meals i've ordered. Great eco-friendly packaging.,2024-07-20
+63,9905602,33306,469866,3,"Fine, would maybe order again.",2025-01-16
+64,2163750,83596,491299,5,The food was absolutely delicious.,2024-03-14
+65,8887024,98133,557322,4,The delivery partner was polite and helpful.,2026-01-01
+66,6347546,93556,494249,5,Totally worth every rupee. Great eco-friendly packaging.,2024-07-04
+67,2989498,74446,367413,4,"Arrived earlier than expected. Authentic taste, cooked perfectly.",2025-02-23
+68,3010850,84443,536893,5,"Fresh, hot and full of flavor.",2024-08-11
+69,7067146,89515,554876,1,The packaging leaked everywhere.,2026-01-10
+70,9616378,67116,435810,5,Super fast delivery.,2024-09-29
+71,1555529,34690,25563,3,Decent but could be better.,2025-01-06
+72,2192464,74339,157453,5,"Smooth, hassle-free experience. Great eco-friendly packaging.",2024-08-15
+73,9575272,30237,386546,2,The delivery partner was rude.,2024-05-20
+74,4502072,19553,541331,3,An average experience overall.,2024-05-24
+75,5695352,34268,352829,5,Delivered right on time. Great eco-friendly packaging.,2026-04-29
+76,7992431,19016,236385,2,The packaging leaked everywhere. The delivery partner was rude.,2024-06-20
+77,6289896,51002,163401,1,Arrived way too late.,2024-01-15
+78,884166,38621,9273,1,Overpriced and not worth it. Quality has really dropped lately.,2026-03-27
+79,422400,47904,409250,4,The delivery partner was polite and helpful.,2024-09-14
+80,4507706,33666,194552,5,Great value for the price. Super fast delivery.,2024-10-07
+81,3498193,53784,570734,5,Totally worth every rupee. The delivery partner was polite and helpful.,2024-04-18
+82,2813515,96759,27058,1,Arrived way too late. The packaging leaked everywhere.,2024-05-12
+83,5066831,19458,550307,4,The delivery partner was polite and helpful. Delivered right on time.,2024-03-07
+84,3518757,76766,512184,5,Delivered right on time.,2026-03-09
+85,115364,67209,510540,2,Gravy spilled all over the bag. Arrived way too late.,2026-03-08
+86,4090249,9859,18913,4,"Smooth, hassle-free experience. Super fast delivery.",2026-06-11
+87,2478317,81420,206009,4,"Arrived earlier than expected. Smooth, hassle-free experience.",2025-07-25
+88,7056960,32550,90245,5,Delivered right on time.,2025-01-08
+89,960017,30102,551533,4,"Neatly packed with no spills. Smooth, hassle-free experience.",2024-04-28
+90,6575081,17612,168012,5,"Fresh, hot and full of flavor. Smooth, hassle-free experience.",2025-01-26
+91,5177707,7101,544892,5,"Fresh, hot and full of flavor. Arrived earlier than expected.",2025-12-22
+92,5523665,90568,378205,2,Quality has really dropped lately. Delivery took over an hour.,2024-01-21
+93,3147935,87608,453410,4,"Authentic taste, cooked perfectly.",2024-05-13
+94,533924,92867,481668,4,Totally worth every rupee. Delivered right on time.,2026-05-22
+95,1910626,48827,104556,5,The food was absolutely delicious. The delivery partner was polite and helpful.,2025-03-03
+96,8588568,56280,553012,3,"Fine, would maybe order again.",2025-08-24
+97,5238432,23516,126207,5,"Authentic taste, cooked perfectly.",2024-07-06
+98,3826498,12589,483760,5,One of the best meals i've ordered.,2025-02-06
+99,9657451,18609,561629,5,"The delivery partner was polite and helpful. Authentic taste, cooked perfectly.",2024-02-22
+100,3488814,61434,17437,5,"Totally worth every rupee. Smooth, hassle-free experience.",2024-03-09
+101,551991,33712,381626,1,Far too expensive for what you get. The food was cold and bland.,2025-02-10
+102,5436933,21482,292533,3,"It was okay, nothing special.",2024-09-06
+103,8231691,57279,344238,4,"Neatly packed with no spills. Authentic taste, cooked perfectly.",2025-05-20
+104,95322,3727,400014,4,The delivery partner was polite and helpful. Great eco-friendly packaging.,2024-01-12
+105,8785018,90358,483281,2,Portion was tiny for the price.,2024-09-19
+106,6150369,12265,308763,5,"Authentic taste, cooked perfectly. Neatly packed with no spills.",2024-07-25
+107,1985244,18504,540364,4,The food was absolutely delicious. Super fast delivery.,2025-06-23
+108,3338508,49683,281627,3,"Fine, would maybe order again.",2026-06-18
+109,8688627,4355,545489,5,Totally worth every rupee. The food was absolutely delicious.,2024-10-25
+110,3939971,15921,290523,4,"Fresh, hot and full of flavor.",2024-04-06
+111,9909069,56167,208676,3,"Fine, would maybe order again.",2025-02-12
+112,6743504,96125,143765,1,Gravy spilled all over the bag. Arrived way too late.,2024-01-31
+113,3520050,89465,369985,5,"Smooth, hassle-free experience.",2025-08-24
+114,5775523,47441,513642,1,The packaging leaked everywhere. Quality has really dropped lately.,2024-03-22
+115,2832946,63476,523325,5,The delivery partner was polite and helpful.,2026-03-18
+116,7494804,10246,533028,3,Decent but could be better.,2025-05-28
+117,7239016,50891,65736,2,The food was cold and bland.,2024-09-10
+118,827262,83517,507115,5,"Smooth, hassle-free experience.",2025-03-04
+119,6669451,31974,481914,4,"Arrived earlier than expected. Smooth, hassle-free experience.",2025-03-23
+120,3811662,99239,567559,2,Overpriced and not worth it.,2024-04-17
+121,7722158,96803,72405,5,The delivery partner was polite and helpful. Totally worth every rupee.,2026-04-22
+122,9508494,22556,578683,4,"Smooth, hassle-free experience.",2024-09-13
+123,5786778,72962,519554,3,An average experience overall.,2025-06-28
+124,108142,26728,377743,4,"Authentic taste, cooked perfectly.",2026-05-31
+125,3524037,46138,526329,3,"It was okay, nothing special.",2024-10-12
+126,8067647,90240,456003,5,Neatly packed with no spills.,2026-01-11
+127,1763738,15569,81685,5,Great eco-friendly packaging. Great value for the price.,2024-07-06
+128,5306623,21515,315708,5,The delivery partner was polite and helpful.,2024-12-07
+129,1118,70818,257419,5,Delivered right on time.,2024-05-10
+130,7060465,89316,142257,5,Super fast delivery. Great value for the price.,2025-10-05
+131,8037034,94251,533670,1,Far too expensive for what you get. Quality has really dropped lately.,2025-04-18
+132,3764445,32715,389096,4,Great value for the price.,2024-10-10
+133,5415005,19591,378776,5,The food was absolutely delicious. Delivered right on time.,2025-01-13
+134,6418197,15340,565302,5,One of the best meals i've ordered.,2024-02-25
+135,3733141,17194,552754,1,Got the wrong order entirely. Quality has really dropped lately.,2026-05-19
+136,2069566,3152,406925,4,Super fast delivery. Great value for the price.,2024-03-11
+137,8443179,28726,509001,1,Got the wrong order entirely. Gravy spilled all over the bag.,2025-07-09
+138,2715671,8607,541006,4,"Smooth, hassle-free experience. Super fast delivery.",2025-05-10
+139,1620158,41921,129810,4,"Arrived earlier than expected. Smooth, hassle-free experience.",2024-02-28
+140,3034476,42598,148067,2,The rider got lost twice.,2025-01-10
+141,9528568,81155,452756,3,"Fine, would maybe order again.",2025-06-24
+142,4090890,8183,437417,4,Great eco-friendly packaging. Totally worth every rupee.,2024-03-02
+143,9549343,55143,514544,4,Totally worth every rupee.,2024-04-29
+144,9291497,17802,440169,2,Portion was tiny for the price. Arrived way too late.,2025-01-03
+145,4778137,61639,443311,4,"Super fast delivery. Fresh, hot and full of flavor.",2024-01-20
+146,4294107,59335,87435,1,"The packaging leaked everywhere. Oily, stale and tasteless.",2026-04-06
+147,1298248,97742,537297,5,"Smooth, hassle-free experience. Arrived earlier than expected.",2024-01-18
+148,6477481,66412,107512,4,Neatly packed with no spills. The delivery partner was polite and helpful.,2025-10-08
+149,9208090,40479,435674,4,Neatly packed with no spills. Delivered right on time.,2024-05-24
+150,2990651,53717,571041,1,The packaging leaked everywhere. The rider got lost twice.,2026-01-16
+151,5011019,54351,561983,5,"Authentic taste, cooked perfectly.",2025-03-07
+152,5799354,28549,218592,2,Quality has really dropped lately. The rider got lost twice.,2025-04-18
+153,6593624,58966,502790,3,An average experience overall.,2026-05-23
+154,6944688,31331,435922,3,"It was okay, nothing special.",2025-04-08
+155,8946913,8529,428775,4,Totally worth every rupee.,2025-10-29
+156,1982661,92119,194097,1,Got the wrong order entirely. Portion was tiny for the price.,2025-06-20
+157,4771155,97244,417079,5,"Fresh, hot and full of flavor.",2024-01-04
+158,9883032,44454,253561,5,Totally worth every rupee. The delivery partner was polite and helpful.,2024-12-08
+159,5583446,73113,488976,5,Totally worth every rupee.,2026-06-20
+160,5467653,16571,497352,5,Great value for the price.,2025-07-15
+161,4444114,53884,375416,5,Great eco-friendly packaging.,2024-12-08
+162,9982690,37243,306841,1,The food was cold and bland.,2024-01-28
+163,9887022,45991,137751,2,Quality has really dropped lately. Far too expensive for what you get.,2026-02-01
+164,4479320,37218,543972,5,Delivered right on time.,2025-06-03
+165,7983226,90073,153908,4,Great value for the price. One of the best meals i've ordered.,2024-11-04
+166,2348461,78680,551892,4,Great eco-friendly packaging. The delivery partner was polite and helpful.,2024-10-19
+167,7944517,6206,495244,4,The delivery partner was polite and helpful. One of the best meals i've ordered.,2025-05-22
+168,4829850,81135,563165,3,"Fine, would maybe order again.",2026-03-23
+169,4196728,86304,203567,5,"Fresh, hot and full of flavor. Smooth, hassle-free experience.",2026-02-03
+170,4060706,60104,545819,1,Far too expensive for what you get. Got the wrong order entirely.,2025-12-31
+171,9958473,3911,517504,4,"Smooth, hassle-free experience.",2025-10-14
+172,2844393,66605,524976,4,Totally worth every rupee.,2024-12-22
+173,2716969,28547,494891,4,Delivered right on time.,2024-12-06
+174,7109175,13698,56886,5,The delivery partner was polite and helpful.,2025-03-24
+175,5348775,51725,405955,5,Totally worth every rupee.,2025-12-07
+176,3660796,37437,430563,4,The food was absolutely delicious.,2025-08-10
+177,1658443,72412,219729,3,"It was okay, nothing special.",2024-10-26
+178,9646965,31479,492885,2,The delivery partner was rude. Portion was tiny for the price.,2024-12-03
+179,2589033,62544,246472,3,Decent but could be better.,2024-02-27
+180,1833273,12377,323423,5,The delivery partner was polite and helpful. Arrived earlier than expected.,2024-06-06
+181,2088340,39064,576138,1,The delivery partner was rude.,2024-05-16
+182,1423964,38372,457772,2,Arrived way too late. Got the wrong order entirely.,2024-04-28
+183,7908358,47268,556736,2,Quality has really dropped lately.,2025-02-23
+184,1407217,32714,426901,4,Delivered right on time.,2025-05-16
+185,8625535,65264,198269,1,Overpriced and not worth it. Got the wrong order entirely.,2025-02-16
+186,8570025,73254,440547,5,Great eco-friendly packaging.,2024-08-13
+187,4892227,18136,577370,5,Great eco-friendly packaging. Arrived earlier than expected.,2026-05-12
+188,3419120,33508,21671,5,Neatly packed with no spills.,2024-07-30
+189,8587737,10634,314836,5,Delivered right on time.,2024-08-01
+190,1250394,48818,191617,5,Delivered right on time.,2025-02-12
+191,3698613,23502,509950,5,Totally worth every rupee. The delivery partner was polite and helpful.,2024-11-18
+192,5509536,1338,451552,4,Totally worth every rupee.,2025-04-27
+193,8523791,83913,41886,5,"Authentic taste, cooked perfectly.",2025-02-27
+194,5454365,66384,55100,4,Great value for the price. Neatly packed with no spills.,2025-04-11
+195,348957,93806,299213,5,"Smooth, hassle-free experience.",2024-08-20
+196,5741852,41262,509235,3,"It was okay, nothing special.",2024-09-17
+197,3086831,70257,355880,5,The delivery partner was polite and helpful.,2026-05-03
+198,950904,7850,346037,5,Great value for the price.,2025-09-23
+199,5732205,41123,363087,1,Portion was tiny for the price.,2025-05-12
+200,3080152,26144,392279,4,Totally worth every rupee. One of the best meals i've ordered.,2025-02-07
+201,246397,19543,495313,2,Gravy spilled all over the bag. The rider got lost twice.,2025-01-27
+202,678267,93568,540773,3,"Fine, would maybe order again.",2024-10-11
+203,9960264,13616,338725,4,Great value for the price.,2024-01-08
+204,6361807,73500,470019,5,Great eco-friendly packaging. Delivered right on time.,2025-07-22
+205,8684952,35243,176464,4,"Totally worth every rupee. Fresh, hot and full of flavor.",2026-01-22
+206,614498,25363,519465,5,The food was absolutely delicious.,2024-11-18
+207,9416525,21830,384512,2,Delivery took over an hour. Portion was tiny for the price.,2024-09-15
+208,7225908,45305,386309,1,The delivery partner was rude.,2025-07-04
+209,1974822,89172,491889,2,Got the wrong order entirely.,2025-08-26
+210,3227915,82099,318241,5,Totally worth every rupee. Great eco-friendly packaging.,2026-06-10
+211,9017953,62006,94336,5,"The food was absolutely delicious. Smooth, hassle-free experience.",2025-04-11
+212,2404780,80945,416442,5,Great value for the price. Great eco-friendly packaging.,2024-02-15
+213,5373543,74121,392865,5,"The delivery partner was polite and helpful. Fresh, hot and full of flavor.",2024-03-15
+214,2722476,71356,479727,4,The delivery partner was polite and helpful.,2024-09-21
+215,5331998,59964,527412,3,Decent but could be better.,2026-01-24
+216,809489,56593,246167,5,One of the best meals i've ordered. Neatly packed with no spills.,2025-09-17
+217,7462919,44336,280335,2,Portion was tiny for the price.,2025-09-19
+218,3526355,86528,298351,3,"Fine, would maybe order again.",2024-02-09
+219,3196430,99878,386767,5,Super fast delivery.,2024-06-02
+220,9655666,62892,314504,3,"It was okay, nothing special.",2025-10-04
+221,1273884,37824,232004,2,Overpriced and not worth it. The food was cold and bland.,2025-05-10
+222,7904715,19977,87783,5,Super fast delivery.,2026-04-16
+223,6658655,14679,46248,4,Great eco-friendly packaging. Totally worth every rupee.,2025-02-23
+224,7650282,72009,483253,4,"Smooth, hassle-free experience.",2025-12-19
+225,4501839,89749,465104,4,One of the best meals i've ordered. The delivery partner was polite and helpful.,2025-12-04
+226,8543176,72587,509779,5,"Fresh, hot and full of flavor.",2024-05-06
+227,166679,79221,554503,3,Decent but could be better.,2025-04-02
+228,6846582,64123,552099,4,Totally worth every rupee. Arrived earlier than expected.,2024-02-10
+229,7402285,46334,396233,2,The food was cold and bland. Arrived way too late.,2024-03-27
+230,552631,97488,470269,2,Gravy spilled all over the bag.,2025-06-18
+231,7473146,36268,40847,5,The food was absolutely delicious. Neatly packed with no spills.,2025-07-03
+232,9292042,72410,184044,3,"It was okay, nothing special.",2024-07-11
+233,2414548,2545,575625,2,Far too expensive for what you get.,2026-04-04
+234,5575460,62456,167869,2,The packaging leaked everywhere.,2025-02-04
+235,5534419,76226,404974,5,"Delivered right on time. Smooth, hassle-free experience.",2025-07-06
+236,4613052,97053,155685,5,Neatly packed with no spills.,2025-02-04
+237,8494746,90458,419360,3,"Fine, would maybe order again.",2026-05-11
+238,7802211,26041,408481,5,The delivery partner was polite and helpful. Super fast delivery.,2025-08-08
+239,8661903,65622,223877,4,Great value for the price. Great eco-friendly packaging.,2024-05-06
+240,7635434,38816,466794,1,The rider got lost twice. The packaging leaked everywhere.,2025-11-11
+241,8954153,99747,457861,5,Arrived earlier than expected. The food was absolutely delicious.,2025-03-03
+242,3409939,15288,554876,5,"Smooth, hassle-free experience. Great value for the price.",2026-04-18
+243,6996781,28537,565849,4,"The food was absolutely delicious. Smooth, hassle-free experience.",2026-05-13
+244,1817609,85436,21620,3,"Fine, would maybe order again.",2025-03-21
+245,1540285,37244,441983,5,Great value for the price. The delivery partner was polite and helpful.,2026-05-14
+246,5287654,81353,548344,5,The delivery partner was polite and helpful.,2024-06-17
+247,1050690,58840,46556,5,"Smooth, hassle-free experience. Great eco-friendly packaging.",2026-06-16
+248,5646935,98029,424202,3,Decent but could be better.,2025-02-09
+249,5170288,40802,470124,2,The delivery partner was rude. The packaging leaked everywhere.,2025-12-19
+250,3431377,28670,358133,5,Totally worth every rupee.,2024-02-05
